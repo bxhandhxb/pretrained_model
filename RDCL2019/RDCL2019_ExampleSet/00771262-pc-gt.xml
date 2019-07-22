@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00001262">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-07-09T11:27:19</Created>
+	<LastChange>2019-02-22T10:03:03</LastChange></Metadata>
+	<Page imageFilename="00771262.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="4676" imageHeight="3136">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r27" index="0"/>
+	<RegionRefIndexed regionRef="r29" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="header" indented="false">
+	<Coords points="119,89 271,89 271,144 119,144"/>
+	<TextEquiv>
+	<Unicode>WORLD</Unicode></TextEquiv>
+	<TextStyle textColour="red" bgColour="white" reverseVideo="true"/></TextRegion>
+	<TextRegion id="r3" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="120,1433 542,1433 542,1468 120,1468"/>
+	<TextEquiv>
+	<Unicode>BY ALEX PERRY</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="119,1512 514,1512 514,1539 119,1539"/>
+	<TextEquiv>
+	<Unicode>BULAWAYO, ZIMBABWE</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r5" orientation="0.00000" colour="black">
+	<Coords points="178,1494 449,1494 449,1495 514,1495 117,1495 178,1495"/></SeparatorRegion>
+	<TextRegion id="r6" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="drop-capital" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="107,2180 296,2180 296,2373 107,2373"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r7" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="316,2181 786,2181 786,2204 784,2204 784,2565 785,2565 785,2733 783,2733 783,2816 542,2816 542,2863 115,2863 115,2609 116,2609 116,2558 115,2558 115,2521 116,2521 116,2471 114,2471 114,2434 115,2434 115,2390 316,2390"/>
+	<TextEquiv>
+	<Unicode>BAD JAIL WASTES A BODY
+quickly. When I entered Cell 6
+at Gwanda police station, I was
+ﬁt. After ﬁve days in a concrete
+and iron-bar tank, with no
+food and only a few sips of water, my skin
+was ﬂaking and my clothes were slipping
+off. A prison blanket had given me lice. The
+water I had palmed from a rusty tap in the
+shower had given me diarrhea. Under a 24-
+hour strip light, I hadn’t slept more than a
+few minutes at a time. And I stank. So many
+men had passed through Cell 6 that they
+had left their smell on the walls, and while
+I was making my own stink, the walls were
+also passing theirs onto me.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r8" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="838,2165 1508,2165 1508,2210 1507,2210 1507,2341 1506,2341 1506,2392 1507,2392 1507,2428 1506,2428 1506,2480 1508,2480 1508,2516 1507,2516 1507,2778 1506,2778 1506,2813 1397,2813 1397,2866 837,2866 837,2786 838,2786 838,2603 837,2603 837,2567 838,2567 838,2436 839,2436 839,2385 838,2385 838,2349 839,2349 839,2297 838,2297"/>
+	<TextEquiv>
+	<Unicode>with the intention of reporting on the ru-
+inous policies that have turned Zimbabwe
+into one of the poorest and most repressive
+countries in the world. Foreign journalists
+are routinely refused permission to travel to
+Zimbabwe, so I entered the country as a
+tourist and drove south from Bulawayo to
+the goldﬁelds of the Great Dyke. I was fol-
+lowing tens of thousands of Zimbabweans
+who, as the economy collapsed, headed to
+the gold-mining region of Matabeleland,
+hoping the red hills might give up some-
+thing to live on. My goal was to get a ﬁrst-
+hand look at the misery facing ordinary
+people in Zimbabwe today. But I had little
+notion of just how close I would get.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="165,2871 783,2871 783,2915 784,2915 784,2951 782,2951 782,2996 114,2996 114,2916 165,2916"/>
+	<TextEquiv>
+	<Unicode>It took 22 hours to get arrested in Robert
+Mugabe’s Zimbabwe. On March 28, I ﬂew
+into Zimbabwe’s second city, Bulawayo,</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r10" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="836,2926 1506,2926 1506,2961 1507,2961 1507,2998 836,2998"/>
+	<TextEquiv>
+	<Unicode>To MAINTAIN MY PRETENSE AS A TOURIST, I
+would have been safer staying north, near</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r11" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1561,2174 2230,2174 2230,2306 2233,2306 2233,2332 2229,2332 2229,2393 2230,2393 2230,2480 2231,2480 2231,2560 2230,2560 2230,2648 2229,2648 2229,2692 1723,2692 1723,2726 1561,2726 1561,2473 1560,2473 1560,2437 1561,2437 1561,2298 1560,2298 1560,2262 1562,2262 1562,2210 1561,2210"/>
+	<TextEquiv>
+	<Unicode>the game parks and Victoria Falls. But
+Matabeleland is a microcosm of Zimba-
+bwe’s implosion. Thousands in the region
+are dying of malnutrition. Hundreds of
+thousands survive by trapping wild animals
+or bare-handed mining. When I arrived in
+the gold-rush town of West Nicholson, I met
+with a local miner in his bungalow. Several
+times during our 10-minute chat, he would
+step out for a few moments. It soon became
+clear why. When I emerged from his house,
+two plainclothes ofﬁcers were waiting to
+detain me.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r12" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1611,2743 2230,2743 2230,2777 2229,2777 2229,2874 2230,2874 2230,2902 2229,2902 2229,2998 1560,2998 1560,2874 1561,2874 1561,2823 1560,2823 1560,2787 1611,2787"/>
+	<TextEquiv>
+	<Unicode>In the 1980s, Zimbabwe was the second
+largest economy in southern Africa. Millions
+of tourists visited each year to see hippos,
+lions and the awesome drama of Victoria
+Falls. And Zimbabwe—a nation of 11 mil-
+lion to 13 million people (nobody knows the</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r13" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2458,2173 3126,2173 3126,2260 3127,2260 3127,2288 3126,2288 3126,2427 3125,2427 3125,2489 3128,2489 3128,2515 3127,2515 3127,2603 3126,2603 3126,2654 3127,2654 3127,2778 3126,2778 3126,2909 2457,2909 2457,2829 2458,2829 2458,2567 2460,2567 2460,2515 2459,2515 2459,2471 2458,2471 2458,2384 2457,2384 2457,2304 2458,2304"/>
+	<TextEquiv>
+	<Unicode>precise number, partly because so many have
+ﬂed) gave black Africans the best education
+and health care on the continent. But over
+the past two decades, Mugabe’s single-
+minded protection of his power has
+devastated the economy and turned the
+country into a police state. Unemployment is
+at 80%, living standards are back to their
+1953 levels, and the World Health Organi-
+zation says life expectancy is 34 for women
+and 37 for men—the lowest in the world.
+Inﬂation hit 1,7929% in February and is pre-
+dicted to reach 3,700% by year’s end. (A cur-
+rency free fall of that magnitude means, for
+instance, that in nominal terms, a single
+brick today costs more than a three-bedroom
+house with a swimming pool did in 1990.)</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r14" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2507,2917 3127,2917 3127,2953 3126,2953 3126,2996 2458,2996 2458,2961 2507,2961"/>
+	<TextEquiv>
+	<Unicode>Arriving in the country is like touching
+down the day after a cataclysm—a place</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r15" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="3179,2172 3848,2172 3848,2303 3849,2303 3849,2340 3848,2340 3848,2478 3849,2478 3849,2522 3850,2522 3850,2559 3849,2559 3849,2603 3848,2603 3848,2646 3180,2646 3180,2566 3181,2566 3181,2471 3179,2471 3179,2391 3180,2391 3180,2340 3179,2340 3179,2303 3180,2303 3180,2207 3179,2207"/>
+	<TextEquiv>
+	<Unicode>where the clocks have stopped. There are
+roads but few cars, and roadside railings are
+torn up at the stumps. The shops feature
+bare shelves and price boards for imaginary
+products that are changed three times a day.
+Telephones don’t work, the power is out, and
+blackened factory stacks spew no smoke.
+People loll in the streets with nothing to do
+and nowhere to go, even if there were a way
+to get there. “What do people eat?” I asked a
+lawyer I met. “Good question,” he replied.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r16" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="3230,2653 3850,2653 3850,2690 3849,2690 3849,2997 3180,2997 3180,2785 3181,2785 3181,2698 3230,2698"/>
+	<TextEquiv>
+	<Unicode>The one thing Zimbabwe is in no danger
+of running out of is pictures of “Comrade”
+Robert Gabriel Mugabe. He looks down from
+framed photographs in every store, gas sta-
+tion and government ofﬁce, a small man in
+gold glasses. When I landed in Zimbabwe,
+he was front-page news in every newspaper,
+railing against the West, which could “go</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r17" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="3903,2169 4374,2169 4374,2193 4323,2193 4323,2248 4347,2248 4347,2288 4348,2288 4348,2327 4349,2327 4349,2351 4346,2351 4346,2414 4393,2414 4393,2431 4295,2431 4295,2479 3905,2479 3905,2438 3904,2438 3904,2400 3902,2400 3902,2369 3905,2369 3905,2319 3903,2319 3903,2288 3904,2288 3904,2202 3903,2202"/>
+	<TextEquiv>
+	<Unicode>Road to nowhere A signpost greets
+arrivals at the Zambian border
+near Victoria Falls. As a result of
+Zimbabwe’s devastated economy,
+there is little traﬁic in the country.
+Here, of the few cars on the roads,
+most carry tourists or Zimbabweans
+trying toﬁnd a way to escape</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<ImageRegion id="r21" colourDepth="colour" orientation="0.00000" embText="false" bgColour="white">
+	<Coords points="1562,90 1562,2064 4572,2064 4572,90"/>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2935,1625 3413,1509 3441,1608 3249,1655 3276,1800 3505,1758 3534,1869 2975,1960 2961,1860 3143,1825 3120,1684 2950,1724"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></ImageRegion>
+	<TextRegion id="r22" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="4537,3029 4570,3029 4570,3054 4537,3054"/>
+	<TextEquiv>
+	<Unicode>19</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r23" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1560,3035 2221,3035 2221,3061 1560,3061"/>
+	<TextEquiv>
+	<Unicode>Photographs by Karim Ben Khelifa—L’Oeil Public</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r24" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="116,3031 149,3031 149,3056 116,3056"/>
+	<TextEquiv>
+	<Unicode>18</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r25" orientation="0.00000" colour="black">
+	<Coords points="112,3009 554,3009 554,3010 996,3010 996,3011 1437,3011 1437,3012 1879,3012 1879,3013 2322,3013 2322,3012 2323,3012 2323,3011 2324,3011 2324,3010 2326,3010 2326,3009 2327,3009 2327,3008 2328,3008 2328,3007 2330,3007 2330,3006 2331,3006 2331,3005 2332,3005 2332,3004 2341,3004 2341,3005 2347,3005 2347,3006 2352,3006 2352,3007 2357,3007 2357,3008 2363,3008 2363,3009 2368,3009 2368,3010 2924,3010 2924,3009 3474,3009 3474,3008 4025,3008 4025,3007 4575,3007 4575,3006 4575,3011 3470,3011 3470,3012 2366,3012 2366,3013 2366,3012 2360,3012 2360,3011 2355,3011 2355,3010 2350,3010 2350,3009 2344,3009 2344,3008 2339,3008 2339,3007 2332,3007 2332,3008 2331,3008 2331,3009 2330,3009 2330,3010 2328,3010 2328,3011 2327,3011 2327,3012 2326,3012 2326,3013 2324,3013 2324,3014 2323,3014 2323,3015 2322,3015 2322,3016 2322,3015 1769,3015 1769,3014 1217,3014 1217,3013 664,3013 664,3012 112,3012 112,3009 111,3009 111,3006 110,3006 110,3007 111,3007 111,3008 112,3008"/></SeparatorRegion>
+	<TextRegion id="r27" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="118,160 672,160 672,377 1232,377 1232,571 588,571 588,865 966,865 966,1046 118,1046 118,785 117,785 117,593 119,593 119,353 118,353"/>
+	<TextEquiv>
+	<Unicode>Land
+Of Chains
+And
+Hunger</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r29" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="119,1078 927,1078 927,1153 928,1153 928,1249 958,1249 958,1322 1043,1322 1043,1375 120,1375 120,1300 119,1300 119,1227 120,1227 120,1150 119,1150"/>
+	<TextEquiv>
+	<Unicode>In a harrowing eyewitness
+account, the author comes
+face to face with the misery
+of Robert Mugabe’s Zimbabwe</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

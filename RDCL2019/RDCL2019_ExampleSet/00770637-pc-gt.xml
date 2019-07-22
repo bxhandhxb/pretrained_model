@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00000637">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-06-22T12:18:11</Created>
+	<LastChange>2019-02-22T10:02:34</LastChange></Metadata>
+	<Page imageFilename="00770637.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2304" imageHeight="3078">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="g21">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r3" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r4" index="8"/>
+	<RegionRefIndexed regionRef="r5" index="9"/>
+	<RegionRefIndexed regionRef="r6" index="10"/></OrderedGroup>
+	<OrderedGroup id="g22">
+	<RegionRefIndexed regionRef="r17" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r0" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="drop-capital" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="208,90 208,566 650,566 650,90"/>
+	<TextEquiv>
+	<Unicode>IN</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r1" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="663,89 2244,89 2244,150 2243,150 2243,315 2247,315 2247,358 2229,358 2229,507 2242,507 2242,769 2252,769 2252,788 216,788 216,670 208,670 208,610 677,610 677,510 685,510 685,356 679,356 679,299 685,299 685,148 663,148"/>
+	<TextEquiv>
+	<Unicode>THE VAST AND VARIED WORLD of advanced
+military technology, the U.S. Army's proposed
+Aerial Common Sensor aircraft was neither the
+biggest nor the sexiest. But it was very important
+to the U.S. Army. The Army desperately needed
+the ACS to replace its Guardrails, a fleet of small, piloted
+reconnaissance aircraft that first began flying in the min-1970s.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r2" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="260,855 863,855 863,889 856,889 856,1011 865,1011 865,1013 857,1013 857,1103 864,1103 864,1166 863,1166 863,1210 856,1210 856,1258 855,1258 855,1314 856,1314 856,1361 857,1361 857,1396 856,1396 856,1481 610,1481 610,1534 210,1534 210,1499 211,1499 211,1442 210,1442 210,1406 211,1406 211,1342 205,1342 205,1317 212,1317 212,1258 211,1258 211,1041 212,1041 212,983 211,983 211,901 260,901"/>
+	<TextEquiv>
+	<Unicode>The Army was so keen on the ACS,
+in fact, that it showcased the program to
+Congress and the American public as an
+example of cost-efficient and timely pro-
+curement. The service was still smarting
+from several high-proﬁle failures, includ-
+ing the cancellations of the Crusader how-
+itzer and the Comanche helicopter. And so,
+in August 2004, when the Army awarded
+a US $879 million ﬁve-year contract for the
+ACS to a team from Lockheed Martin and
+the Brazilian aircraft company Embraer, it
+had high hopes. Lockheed did too: it stood
+to earn an additional $7 billion once the
+plane entered production.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r3" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="906,856 1552,856 1552,902 1553,902 1553,948 1555,948 1555,983 1553,983 1553,1030 1552,1030 1552,1075 1265,1075 1265,1121 912,1121 912,948 913,948 913,883 906,883"/>
+	<TextEquiv>
+	<Unicode>Army canceled the program 18 months
+after it formally began, paying Lockheed
+$200 million for its trouble. The Army
+is now faced with spending $462 million
+over the next eight years to keep those
+old Guardrails ﬂying.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1609,856 2247,856 2247,891 2246,891 2246,959 2249,959 2249,983 2248,983 2248,1030 2245,1030 2245,1087 2247,1087 2247,1148 2254,1148 2254,1150 2246,1150 2246,1258 1829,1258 1829,1296 1602,1296 1602,1271 1609,1271 1609,1167 1608,1167 1608,1076 1607,1076 1607,1040 1608,1040 1608,901 1609,901"/>
+	<TextEquiv>
+	<Unicode>as the mid-1990s, the largest of these cost
+tens of billions of dollars. Today, some, like
+the Army’s Future Combat Systems, now
+range in the hundreds of billions. Topping
+the charts is the F-35 jet ﬁghter, which is
+expected to cost taxpayers an astounding
+$1 trillion to develop, purchase, and oper-
+ate. That sum is close to what the United
+States spent to ﬁght both the Korean and
+Vietnam wars.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r5" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1655,1315 2254,1315 2254,1333 2246,1333 2246,1423 2254,1423 2254,1425 2248,1425 2248,1561 2254,1561 2254,1564 2246,1564 2246,1653 2254,1653 2254,1656 2246,1656 2246,1718 2244,1718 2244,1774 2245,1774 2245,1802 2237,1802 2237,1854 1604,1854 1604,1820 1606,1820 1606,1683 1607,1683 1607,1626 1606,1626 1606,1545 1607,1545 1607,1442 1606,1442 1606,1407 1607,1407 1607,1361 1655,1361"/>
+	<TextEquiv>
+	<Unicode>The spiraling costs are linked to sched-
+ule delays that are equally troubling. In
+2007, the GAO estimated that current pro-
+grams in development were experiencing
+an average delay of 21 months, with a few
+programs nearly a decade behind sched-
+ule. A 2007 GAO report to Congress noted
+that because of such delays and cost over-
+runs, “not only is the buying power of the
+government reduced and opportunities
+to make other investments lost, but the
+warﬁghter receives less than promised.”</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r6" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1656,1866 2253,1866 2253,1884 2245,1884 2245,1958 2247,1958 2247,2020 2253,2020 2253,2022 2247,2022 2247,2112 2253,2112 2253,2131 2252,2131 2252,2177 1605,2177 1605,2143 1606,2143 1606,2039 1605,2039 1605,2004 1607,2004 1607,1947 1606,1947 1606,1921 1656,1921"/>
+	<TextEquiv>
+	<Unicode>Behind the deterioration is a conver-
+gence of factors, say analysts both inside
+and outside the Defense Department. New
+military systems are more technologi-
+cally complex than ever before, and they
+rely increasingly on unproven technolo-
+gies. Defense programs are now “so mas-</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r7" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="960,1132 1561,1132 1561,1150 1552,1150 1552,1223 1553,1223 1553,1258 1552,1258 1552,1384 1558,1384 1558,1388 1552,1388 1552,1464 1555,1464 1555,1488 1551,1488 1551,1591 1552,1591 1552,1654 1560,1654 1560,1656 1552,1656 1552,1745 1559,1745 1559,1747 1551,1747 1551,1809 1550,1809 1550,1900 1447,1900 1447,1947 910,1947 910,1865 911,1865 911,1809 910,1809 910,1774 911,1774 911,1714 910,1714 910,1675 908,1675 908,1648 911,1648 911,1591 912,1591 912,1533 910,1533 910,1499 911,1499 911,1434 910,1434 910,1407 912,1407 912,1350 910,1350 910,1314 911,1314 911,1269 912,1269 912,1213 911,1213 911,1178 960,1178"/>
+	<TextEquiv>
+	<Unicode>To summarize: a big, basic technolog-
+ical problem emerged long after such an
+obstacle should have been spotted and
+resolved, in a program that would have
+been hugely over budget and behind
+schedule had it been left to run its course.
+But those factors aren’t what made the ACS
+unusual. The Government Accountability
+Ofﬁce, the U.S. Congress’s investigative
+arm, recently scrutinized 72 major defense
+programs and found that only 11 of them
+were on time, on budget, and meeting per-
+formance criteria. No, what set the ACS
+apart was that it was not allowed to lin-
+ger for years, racking up more costs and
+delays—it was actually canceled. Less
+than 5 percent of major defense programs
+ever suffer that fate, the GAO says.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r8" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="960,1958 1550,1958 1550,2020 1558,2020 1558,2022 1549,2022 1549,2096 1551,2096 1551,2143 1552,2143 1552,2178 909,2178 909,2143 911,2143 911,2085 910,2085 910,2051 911,2051 911,2005 960,2005"/>
+	<TextEquiv>
+	<Unicode>Problems in defense acquisitions have
+existed for decades. What’s new is the eco-
+nomic scale. The Pentagon now spends
+about $21 million every hour to develop and
+procure new defense systems. As recently</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="255,1958 854,1958 854,2021 863,2021 863,2023 856,2023 856,2078 855,2078 855,2128 854,2128 854,2178 210,2178 210,2142 211,2142 211,2014 255,2014"/>
+	<TextEquiv>
+	<Unicode>A panel brought in to assess the ACS
+concluded that the program was “un-
+executable” and estimated it would cost
+at least another $900 million and two
+more years to get it back on track. So the</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r10" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="255,1545 855,1545 855,1602 858,1602 858,1619 854,1619 854,1682 855,1682 855,1728 857,1728 857,1810 855,1810 855,1855 854,1855 854,1900 608,1900 608,1947 210,1947 210,1855 208,1855 208,1830 211,1830 211,1763 209,1763 209,1728 210,1728 210,1682 212,1682 212,1626 210,1626 210,1595 255,1595"/>
+	<TextEquiv>
+	<Unicode>Almost immediately, things started
+to go wrong. Barely four months after
+signing the paperwork, the contractors
+revealed that their aircraft, based on an
+Embraer commercial jet, was rated for
+only 9 gs of force, not the 16 that the Army
+wanted. Fixing the problem drove up the
+plane’s weight, putting it 1400 kilograms
+over its safety threshold.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<ImageRegion id="r11" colourDepth="colour" orientation="0.00000" embText="true" bgColour="blue">
+	<Coords points="210,2242 210,2904 2244,2904 2244,2242"/>
+	<TextRegion id="r17" type="floating">
+	<Coords points="231,2281 231,2424 1154,2424 1154,2281"/>
+	<TextEquiv>
+	<Unicode>$1 TRILLION</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="floating">
+	<Coords points="1166,2288 1166,2415 2223,2415 2223,2288"/>
+	<TextEquiv>
+	<Unicode>TOTAL COST OD F-35 FIGHTER PROGRAM
+WILL EQUAL THE COMBINED OUTLAYS
+FOR FIGHTING THE KOREAN AND VIETNAM WARS</Unicode></TextEquiv></TextRegion></ImageRegion>
+	<TextRegion id="r12" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="280,2957 882,2957 882,2976 280,2976"/>
+	<TextEquiv>
+	<Unicode>INT • IEEE SPECTRUM • NOVEMBER 2008</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r13" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1927,2956 2243,2956 2243,2972 1927,2972"/>
+	<TextEquiv>
+	<Unicode>WWW.SPECTRUM.IEEE.ORG</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r14" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="213,2953 253,2953 253,2978 213,2978"/>
+	<TextEquiv>
+	<Unicode>28</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r15" orientation="-90.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2269,2904 2269,2190 2283,2190 2283,2904"/>
+	<TextEquiv>
+	<Unicode>PREVIOUS PAGES: WESTLEY T. KITTEN/PHOTOSHELTER; THIS PAGE: LOCKHEED MARTIN</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

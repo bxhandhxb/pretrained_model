@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00001128">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-07-01T15:53:24</Created>
+	<LastChange>2019-02-20T17:33:25</LastChange></Metadata>
+	<Page imageFilename="00771128.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2341" imageHeight="3237">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r1" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="253,252 1172,252 1172,442 1171,442 1171,512 1172,512 1172,559 1171,559 1171,611 755,611 755,652 201,652 201,617 203,617 203,564 204,564 204,442 203,442 203,408 204,408 204,350 203,350 203,307 253,307"/>
+	<TextEquiv>
+	<Unicode>The results confirm the generality of the Universal
+Law of Web Surfing. As WAP is a precursor of future
+3G telecom systems (from which we will be able to
+access Web content from mobile devices with
+restricted interface features), these results have impor-
+tant implications for our understanding of future
+mobile Web surfing behavior, as well as how to design
+Web-content-aceess interfaces.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r1" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1226,252 2187,252 2187,355 2188,355 2188,401 2186,401 2186,459 2188,459 2188,494 2185,494 2185,564 2187,564 2187,652 2185,652 2185,722 2186,722 2186,774 2187,774 2187,860 2186,860 2186,912 2030,912 2030,970 1743,970 1743,860 1742,860 1742,826 1744,826 1744,761 1743,761 1743,722 1744,722 1744,652 1226,652 1226,453 1225,453 1225,355 1226,355"/>
+	<TextEquiv>
+	<Unicode>in terms of display resolution, color capability, oper-
+ating system features, and browser functionality com-
+pared to the standardized world of PC-based Internet
+access. Mobile phones also have limited input capa-
+bility; their numeric keypads allow only minimal text
+entry compared to the mouse/keyboard entry on PCs.
+In addition to these device differences, the content
+base of the mobile Web is much more limited in
+scope and diversity.
+Moreover, mobile Web
+users must also contend
+with slow download
+times and incremental
+billing costs [8].</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<ChartRegion id="r2" embText="true" orientation="0.00000" type="other" bgColour="green">
+	<Coords points="732,702 732,1360 1714,1360 1714,702"/>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="941,733 941,764 983,764 983,733"/>
+	<TextEquiv>
+	<Unicode>1.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="939,807 939,837 983,837 983,807"/>
+	<TextEquiv>
+	<Unicode>1.0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="937,884 937,914 983,914 983,884"/>
+	<TextEquiv>
+	<Unicode>0.8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="935,957 935,987 982,987 982,957"/>
+	<TextEquiv>
+	<Unicode>0.6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="933,1031 933,1063 983,1063 983,1031"/>
+	<TextEquiv>
+	<Unicode>0.4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="934,1109 934,1140 981,1140 981,1109"/>
+	<TextEquiv>
+	<Unicode>0.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="959,1186 959,1214 981,1214 981,1186"/>
+	<TextEquiv>
+	<Unicode>0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="999,1225 999,1257 1013,1257 1013,1225"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="753,954 753,995 918,995 918,954"/>
+	<TextEquiv>
+	<Unicode>Probability</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="1058,1225 1058,1257 1088,1257 1088,1225"/>
+	<TextEquiv>
+	<Unicode>11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="1118,1225 1118,1256 1153,1256 1153,1225"/>
+	<TextEquiv>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="1187,1224 1187,1257 1218,1257 1218,1224"/>
+	<TextEquiv>
+	<Unicode>31</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="1251,1225 1251,1257 1288,1257 1288,1225"/>
+	<TextEquiv>
+	<Unicode>41</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="1321,1225 1321,1256 1349,1256 1349,1225"/>
+	<TextEquiv>
+	<Unicode>51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="1385,1226 1385,1256 1416,1256 1416,1226"/>
+	<TextEquiv>
+	<Unicode>61</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="1448,1226 1448,1256 1483,1256 1483,1226"/>
+	<TextEquiv>
+	<Unicode>71</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="1518,1223 1518,1256 1550,1256 1550,1223"/>
+	<TextEquiv>
+	<Unicode>81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="1583,1227 1583,1254 1614,1254 1614,1227"/>
+	<TextEquiv>
+	<Unicode>91</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="1639,1224 1639,1256 1693,1256 1693,1224"/>
+	<TextEquiv>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="1418,1052 1418,1080 1611,1080 1611,1052"/>
+	<TextEquiv>
+	<Unicode>Inverse Gaussian</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="1416,1107 1416,1139 1575,1139 1575,1107"/>
+	<TextEquiv>
+	<Unicode>Experimental</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="1293,1291 1293,1325 1386,1325 1386,1291"/>
+	<TextEquiv>
+	<Unicode>Clicks</Unicode></TextEquiv></TextRegion></ChartRegion>
+	<TextRegion id="r3" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1221,1385 1671,1385 1671,1408 1625,1408 1625,1459 1682,1459 1682,1490 1629,1490 1629,1534 1676,1534 1676,1571 1698,1571 1698,1603 1587,1603 1587,1655 1655,1655 1655,1693 1685,1693 1685,1709 1589,1709 1589,1753 1219,1753 1219,1709 1218,1709 1218,1610 1219,1610 1219,1521 1218,1521 1218,1496 1219,1496 1219,1421 1221,1421"/>
+	<TextEquiv>
+	<Unicode>Figure 1. Cumulative distribution
+frequency for WAP users as a
+function of the number of surfing
+clicks. The observed data was
+collected in a four-week period in
+September 2002 from a sample of
+350,635 users representing
+3,006,385 sessions. The inverse
+Gaussian distribution has a mean
+of m = 3.6576 and I = 2.69.</Unicode></TextEquiv>
+	<TextStyle textColour="green" bgColour="white" reverseVideo="false"/></TextRegion>
+	<ChartRegion id="r4" embText="true" orientation="0.00000" type="other" bgColour="green">
+	<Coords points="850,1822 850,2572 2176,2572 2176,1822"/>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="1034,1864 1034,1896 1188,1896 1188,1864"/>
+	<TextEquiv>
+	<Unicode>1,000,0000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="1049,1938 1049,1972 1186,1972 1186,1938"/>
+	<TextEquiv>
+	<Unicode>1,000,000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="1076,2015 1076,2050 1188,2050 1188,2015"/>
+	<TextEquiv>
+	<Unicode>100,000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="1092,2090 1092,2123 1184,2123 1184,2090"/>
+	<TextEquiv>
+	<Unicode>10,000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="1110,2163 1110,2198 1186,2198 1186,2163"/>
+	<TextEquiv>
+	<Unicode>1,000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="1136,2240 1136,2269 1186,2269 1186,2240"/>
+	<TextEquiv>
+	<Unicode>100</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="1155,2317 1155,2348 1186,2348 1186,2317"/>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="1172,2394 1172,2425 1182,2425 1182,2394"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="1208,2435 1208,2468 1219,2468 1219,2435"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="881,2083 881,2165 1062,2165 1062,2083"/>
+	<TextEquiv>
+	<Unicode>Log
+(Frequency)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="1429,2438 1429,2467 1463,2467 1463,2438"/>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="1642,2438 1642,2467 1694,2467 1694,2438"/>
+	<TextEquiv>
+	<Unicode>100</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="1857,2436 1857,2470 1933,2470 1933,2436"/>
+	<TextEquiv>
+	<Unicode>1,000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="2071,2436 2071,2468 2169,2468 2169,2436"/>
+	<TextEquiv>
+	<Unicode>10,000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="1621,2496 1621,2538 1790,2538 1790,2496"/>
+	<TextEquiv>
+	<Unicode>Log(Clicks)</Unicode></TextEquiv></TextRegion></ChartRegion>
+	<TextRegion id="r5" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1792,981 2187,981 2187,1016 2186,1016 2186,1290 2184,1290 2184,1348 2186,1348 2186,1400 2187,1400 2187,1447 2186,1447 2186,1499 2184,1499 2184,1555 2186,1555 2186,1643 2185,1643 2185,1759 1740,1759 1740,1660 1741,1660 1741,1620 1745,1620 1745,1538 1740,1538 1740,1504 1741,1504 1741,1400 1743,1400 1743,1290 1741,1290 1741,1243 1743,1243 1743,1173 1742,1173 1742,1138 1743,1138 1743,1034 1792,1034"/>
+	<TextEquiv>
+	<Unicode>These differences
+have led to differences
+between the way users
+access information on
+the mobile Web and the
+way they access informa-
+tion the regular Web.
+For example, mobile
+users generally adopt a
+browsing model of infor-
+mation access [1, 2, 4, 6,
+12], locating informa-
+tion and services
+through the menu hier-
+archies of operator por-</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r6" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="253,670 710,670 710,716 708,716 708,775 709,775 709,861 708,861 708,930 709,930 709,976 708,976 708,1086 709,1086 709,1121 705,1121 705,1191 706,1191 706,1244 708,1244 708,1297 709,1297 709,1342 708,1342 708,1399 1171,1399 1171,1498 1170,1498 1170,1551 374,1551 374,1591 202,1591 202,1383 201,1383 201,1349 202,1349 202,1186 201,1186 201,1139 202,1139 202,1034 203,1034 203,976 202,976 202,878 203,878 203,769 202,769 202,723 253,723"/>
+	<TextEquiv>
+	<Unicode>Today, most mobile
+phone users readily access
+Internet-provided services
+from their handsets. But this
+mobile Web revolution has
+had a slow start, largely due
+to such problems as unsta-
+ble handsets, limited con-
+tent, low bandwidth, and
+high cost to the end user.
+However, significant device-,
+bandwidth-, and charging-
+model improvements have
+led to a dramatic increase in
+use over the past 12-18 months. Here, we consider
+the underlying characteristics of the mobile Web and
+its usage patterns, comparing them to those of the reg-
+ular Web.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r7" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="251,1608 1169,1608 1169,1759 808,1759 808,1871 809,1871 809,1917 807,1917 807,1970 806,1970 806,2027 808,2027 808,2073 807,2073 807,2130 809,2130 809,2177 808,2177 808,2218 432,2218 432,2282 199,2282 199,2236 201,2236 201,2117 200,2117 200,2078 201,2078 201,1923 202,1923 202,1696 201,1696 201,1661 251,1661"/>
+	<TextEquiv>
+	<Unicode>The mobile Web represents a fundamentally dif-
+ferent information medium from the traditional Web
+in terms of access devices used, content availability,
+bandwidth, and cost to the end
+user. These differences suggest
+there may be little to learn about
+mobile Web usage from observa-
+tions of regular Web use. In fact,
+the reverse is the case; irrespective
+of these differences, the same
+Universal Law of Web Surfing
+applies in both Web and mobile
+Web surfing.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r8" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="253,2332 807,2332 807,2375 253,2375"/>
+	<TextEquiv>
+	<Unicode>One obvious difference</Unicode></TextEquiv>
+	<TextStyle textColour="green" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="201,2392 807,2392 807,2543 806,2543 806,2653 807,2653 807,2705 808,2705 808,2751 806,2751 806,2825 809,2825 809,2857 806,2857 806,2915 807,2915 807,2967 1169,2967 1169,3014 1168,3014 1168,3066 200,3066 200,3020 202,3020 202,2961 201,2961 201,2793 199,2793 199,2757 200,2757 200,2705 201,2705"/>
+	<TextEquiv>
+	<Unicode>between the mobile Web and the
+regular Web concerns the device
+employed by end users. There are
+fundamental differences between
+the WAP phones designed to
+access the mobile Web and PCs
+designed to access the regular
+Web. Screen real estate is an obvi-
+ous difference, with PCs offering
+display sizes many orders of mag-
+nitude larger than a typical
+mobile phone screen. In addition, there is much
+greater diversity in the capabilities of mobile phones</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r10" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="836,2648 1166,2648 1166,2717 1165,2717 1165,2798 1166,2798 1166,2868 913,2868 913,2830 845,2830 845,2786 844,2786 844,2755 843,2755 843,2723 861,2723 861,2680 836,2680"/>
+	<TextEquiv>
+	<Unicode>Figure 2. Frequency dis-
+tribution of surfing on
+log-log scales. We used
+the same data set as in
+Figure 1 for the calcula-
+tions and the plot.</Unicode></TextEquiv>
+	<TextStyle textColour="green" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r11" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1223,2653 2183,2653 2183,2908 1723,2908 1723,2962 1222,2962 1222,2862 1223,2862 1223,2751 1222,2751 1222,2704 1223,2704"/>
+	<TextEquiv>
+	<Unicode>tals, a type of access for which mobile phones are well
+adapted. In contrast, the primary mode of access on
+the Web today is via search engines. However, the
+input and output limitations of mobile handsets
+make it difficult for users to specify queries or sift
+through long lists of results.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r12" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1273,2969 2182,2969 2182,3065 1222,3065 1222,3020 1273,3020"/>
+	<TextEquiv>
+	<Unicode>Several recent studies [1, 2, 4, 6, 12| have identi-
+fied several universal laws that appear to characterize</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r13" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="293,3153 993,3153 993,3173 293,3173"/>
+	<TextEquiv>
+	<Unicode>March 2006/Vol. 49. No. 3 COMMUNICATIONS OF THE ACM</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r14" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="202,3144 246,3144 246,3170 202,3170"/>
+	<TextEquiv>
+	<Unicode>78</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

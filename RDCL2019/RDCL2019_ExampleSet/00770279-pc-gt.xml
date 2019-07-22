@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00000279">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-11-17T12:21:08</Created>
+	<LastChange>2019-02-20T11:39:52</LastChange></Metadata>
+	<Page imageFilename="00770279.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2249" imageHeight="3080">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="g0">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/></OrderedGroup>
+	<OrderedGroup id="g1">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r0" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1215,87 2199,87 2199,113 2195,113 2195,201 2202,201 2202,214 2201,214 2201,286 2205,286 2205,306 1702,306 1702,353 1215,353 1215,271 1216,271 1216,167 1215,167"/>
+	<TextEquiv>
+	<Unicode>public imagination was the dispute over the technology of
+the BlackBerry personal communicator—which went on
+for years between Research in Motion, of Waterloo, Ont.,
+Canada and NTP, a patent holding company in McLean, Va,
+Finally, last year RIM paid NTP upward of $600 million, com-
+plying with a court judgment.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r1" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1264,364 2205,364 2205,380 2195,380 2195,471 2205,471 2205,473 2194,473 2194,548 2197,548 2197,582 1562,582 1562,628 1216,628 1216,536 1215,536 1215,502 1216,502 1216,454 1217,454 1217,412 1264,412"/>
+	<TextEquiv>
+	<Unicode>The BlackBerry case drew attention to another much-
+criticized effect of the U.S. patent system: the presence
+of “trolls,” who allegedly acquire patents, sit on them hop-
+ing that one or more will turn out to have crucial business
+applications, and then go to court to obtain what critics call
+extortionist payouts.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r2" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1264,639 2205,639 2205,656 2194,656 2194,730 2196,730 2196,838 2204,838 2204,840 2197,840 2197,984 2202,984 2202,996 2077,996 2077,1043 1215,1043 1215,1007 1216,1007 1216,950 1214,950 1214,916 1215,916 1215,869 1216,869 1216,812 1215,812 1215,730 1216,730 1216,690 1264,690"/>
+	<TextEquiv>
+	<Unicode>The data on U.S. patent awards for 2006 show that the pat-
+ents in any given field still go to a few top companies, that there
+is little change from year to year among the dominant firms, and
+that big gaps yawn between the leaders and the runners-up. In
+almost all branches of electronics, computing, and telecommu-
+nications, awards made to the leading company jumped mightily
+from 2005 to 2006—by as much as 48 percent in semiconductor
+manufacturing, 60 percent in telecommunications equipment,
+and 65 percent in electronics [see table, “Patent Push”].</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r3" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1266,1054 2199,1054 2199,1079 2195,1079 2195,1145 2199,1145 2199,1191 2200,1191 2200,1225 2194,1225 2194,1298 2204,1298 2204,1317 1985,1317 1985,1364 1215,1364 1215,1318 1214,1318 1214,1249 1205,1249 1205,1241 1215,1241 1215,1134 1214,1134 1214,1100 1266,1100"/>
+	<TextEquiv>
+	<Unicode>Steven J. Frank, a patent lawyer in Boston and author of
+the 2006 book Intellectual Property for Managers and Investors
+(Cambridge University Press), cautions that such studies of
+patent concentration and impact should be treated warily.
+"Just looking at the leaders, you have to ask what their game
+is," Frank muses. “Are they just trying to look like IP dyna-
+mos? Are they engaged in a kind of land grab?”</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1265,1376 2196,1376 2196,1422 2197,1422 2197,1457 2196,1457 2196,1529 2205,1529 2205,1531 2197,1531 2197,1587 2194,1587 2194,1662 2201,1662 2201,1683 2197,1683 2197,1733 2195,1733 2195,1779 2194,1779 2194,1824 2193,1824 2193,1928 2194,1928 2194,1962 1931,1962 1931,2009 1215,2009 1215,1917 1214,1917 1214,1882 1215,1882 1215,1824 1214,1824 1214,1744 1215,1744 1215,1641 1214,1641 1214,1561 1216,1561 1216,1503 1214,1503 1214,1423 1265,1423"/>
+	<TextEquiv>
+	<Unicode>Of course that goes, too, for smaller companies making
+big jumps in the ranks [for some examples, see table, “Patent
+Performers on the Move”], some of which might be emerging
+stars, while others might be merely padding their patent port-
+folios as a public relations exercise. To take the numbers at
+face value, however, and to judge from the fields in which the
+companies are shifting position most radically and frequently,
+computing, semiconductors, and telecommunications appear
+to be among the most dynamic areas in what the patent world
+broadly calls information technology (IT). Presumably, some
+chip and telecom companies are being truly innovative, while
+others may be acquiring patents mainly to defend themselves
+against possible litigation and position themselves to bargain
+effectively in cross-licensing arrangements.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r5" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1261,2020 2196,2020 2196,2089 2199,2089 2199,2147 2193,2147 2193,2239 1432,2239 1432,2278 1213,2278 1213,2193 1212,2193 1212,2161 1215,2161 1215,2102 1213,2102 1213,2069 1261,2069"/>
+	<TextEquiv>
+	<Unicode>IEEE Spectrum’s compilation of patent awards and patent
+impact was prepared by 1790 Analytics, a Haddonfield, N.J.,
+company that specializes in evaluating intellectual property.
+This is the second year that the firm, which takes its name
+from the year the first U.S. patent was awarded, has provided
+its data to us.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r6" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1263,2299 2193,2299 2193,2342 2195,2342 2195,2410 2200,2410 2200,2434 2202,2434 2202,2451 2194,2451 2194,2515 1883,2515 1883,2562 1213,2562 1213,2527 1215,2527 1215,2462 1212,2462 1212,2434 1213,2434 1213,2344 1263,2344"/>
+	<TextEquiv>
+	<Unicode>The methodology this year is essentially the same as
+last year’s [see “Patent Power,” Spectrum, November 2006 at
+http://spectrum.ieee.org/nov06/4699]. This year, however,
+1790 added a measure to account for self-citation, which pro-
+duces lower Pipeline Impact ratings for companies whose
+patents are referenced mainly internally.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r7" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1262,2572 2197,2572 2197,2599 2192,2599 2192,2675 2195,2675 2195,2700 2193,2700 2193,2757 2194,2757 2194,2802 2196,2802 2196,2837 1582,2837 1582,2883 1212,2883 1212,2804 1215,2804 1215,2745 1213,2745 1213,2711 1214,2711 1214,2653 1213,2653 1213,2629 1262,2629"/>
+	<TextEquiv>
+	<Unicode>Take Boeing as an example, suggests 1790’s director of
+research, Anthony Breitzman: its raw Pipeline Impact value
+of 0.84 drops to 0.78 when adjusted for self-citation. Largely
+because of the self-citation penalty, Micron Technology, a
+semiconductor maker in Boise, Idaho, falls sharply from being
+last year’s overall patent winner and is replaced at the top of
+the heap by Microsoft.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r8" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1263,2894 2191,2894 2191,2950 2194,2950 2194,2974 1213,2974 1213,2950 1263,2950"/>
+	<TextEquiv>
+	<Unicode>Looking at the compilation as a whole, the impression is
+more one of stability than of change. In almost every major</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1824,3027 2189,3027 2189,3053 1824,3053"/>
+	<TextEquiv>
+	<Unicode>www.spectrum.ieee.org</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r11" orientation="90.00000" colour="black">
+	<Coords points="26,86 26,88 27,88 27,100 28,100 28,395 27,395 27,564 28,564 28,583 27,583 27,1021 26,1021 26,1163 27,1163 27,1180 26,1180 26,1340 27,1340 27,1350 26,1350 26,1993 25,1993 25,2108 26,2108 26,2109 25,2109 25,2294 26,2294 26,2401 25,2401 25,2678 26,2678 26,2972 24,2972 24,2975 20,2975 20,2976 20,2974 19,2974 19,2971 18,2971 18,2641 17,2641 18,2641 18,2444 17,2444 18,2444 18,2284 17,2284 17,2265 18,2265 18,2098 17,2098 17,2062 18,2062 18,1892 17,1892 17,1846 18,1846 18,1714 17,1714 17,1668 18,1668 18,1517 17,1517 18,1517 18,874 19,874 19,751 18,751 18,722 19,722 19,135 20,135 20,89 21,89 21,88 22,88 22,87 26,87"/></SeparatorRegion>
+	<SeparatorRegion id="r12" orientation="0.00000" colour="black">
+	<Coords points="71,757 78,757 78,758 1113,758 1113,759 1111,759 1111,760 71,760 71,759 70,759 70,758 71,758"/></SeparatorRegion>
+	<SeparatorRegion id="r13" orientation="0.00000" colour="black">
+	<Coords points="70,1262 104,1262 104,1263 263,1263 263,1262 275,1262 275,1263 455,1263 455,1262 471,1262 471,1263 647,1263 647,1262 693,1262 693,1263 840,1263 840,1262 888,1262 888,1263 1032,1263 1032,1262 1111,1262 1111,1263 1112,1263 1112,1264 1031,1264 1031,1265 378,1265 378,1264 262,1264 262,1265 69,1265 69,1263 70,1263"/></SeparatorRegion>
+	<SeparatorRegion id="r14" orientation="0.00000" colour="black">
+	<Coords points="73,1767 96,1767 96,1768 656,1768 656,1767 659,1767 659,1768 843,1768 843,1767 860,1767 860,1768 1035,1768 1035,1767 1064,1767 1064,1768 1111,1768 1111,1769 1034,1769 1034,1770 68,1770 69,1770 69,1768 73,1768"/></SeparatorRegion>
+	<TextRegion id="r15" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="73,228 1068,228 1068,277 73,277"/>
+	<TextEquiv>
+	<Unicode>Semiconductor Equipment Manufacturing</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r16" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="73,783 783,783 783,833 73,833"/>
+	<TextEquiv>
+	<Unicode>Semiconductor Manufacturing</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r17" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="62,1288 507,1288 507,1336 62,1336"/>
+	<TextEquiv>
+	<Unicode>Telecom Equipment</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r18" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="62,1792 459,1792 459,1833 62,1833"/>
+	<TextEquiv>
+	<Unicode>Telecom Services</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r19" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="67,2419 1107,2419 1107,2441 1093,2441 1093,2484 1074,2484 1074,2517 1024,2517 1024,2571 1053,2571 1053,2592 999,2592 999,2647 1058,2647 1058,2668 1025,2668 1025,2727 1094,2727 1094,2743 1077,2743 1077,2780 1070,2780 1070,2818 1013,2818 1013,2872 1106,2872 1106,2897 1090,2897 1090,2936 938,2936 938,2973 71,2973 71,2936 70,2936 70,2909 71,2909 71,2833 72,2833 72,2786 71,2786 71,2674 69,2674 69,2646 71,2646 71,2608 72,2608 72,2560 71,2560 71,2479 67,2479"/>
+	<TextEquiv>
+	<Unicode>The number for 2006 U.S. Patents is a proxy for relative patent prowess worldwide.
+The Pipeline Power score is derived by multiplying the company’s patent count by
+the product of four other variables. Pipeline Growth (not shown here) represents]
+the firm’s 2006 patent activity, relative to its average performance in the five
+previous years. For the other three variables, a score above 1.00 indicates that
+the company performed better than average in its technology class; below
+1.00 indicates worse than average performance. Pipeline Impact indicates howl
+frequently all 2006 patents cited a company’s patents from the previous five)
+years. Pipeline Generality is a measure of the variety of technologies drawing on a
+company’s patents. Pipeline Originality measures the variety of the technologies
+upon which an organization's patents build. Adjusted Pipeline Impact eliminates
+self-citation. The final score, Adjusted Pipeline Power, is an estimate of a
+company’s overall patent power. For the complete data, which include all of the top
+20 companies in each category, as well as the Pipeline Growth and percentage of
+self-citation numbers, see http://spectrum.ieee.org/nov07/scorecard.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r20" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="820,2344 1109,2344 1109,2369 820,2369"/>
+	<TextEquiv>
+	<Unicode>Source: 1790 Analytics</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TableRegion id="r21" rows="10" columns="9" orientation="0.00000" lineSeparators="false" bgColour="white" embText="false">
+	<Coords points="1112,709 1112,308 65,308 65,709"/>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="68,311 103,311 103,338 68,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="107,311 491,311 491,338 107,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>ASML Holding NV, Netherlands</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="495,311 575,311 575,338 495,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>297</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="579,311 667,311 667,338 579,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.48</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="671,311 754,311 754,338 671,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="758,311 842,311 842,338 758,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="846,311 929,311 929,338 846,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.09</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="933,311 1025,311 1025,338 933,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1897</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="1029,311 1110,311 1110,338 1029,338"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1491</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="68,342 103,342 103,369 68,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="107,342 491,342 491,369 107,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>KLA-Tencor Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="495,342 575,342 575,369 495,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>127</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="579,342 667,342 667,369 579,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>2.81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="671,342 754,342 754,369 671,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>2.45</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="758,342 842,342 842,369 758,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>2.88</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="846,342 929,342 929,369 846,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.98</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords points="933,342 1025,342 1025,369 933,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1632</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords points="1029,342 1110,342 1110,369 1029,369"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1427</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords points="68,373 103,373 103,402 68,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="107,373 491,373 491,402 107,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Applied Materials Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords points="495,373 575,373 575,402 495,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>369</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="579,373 667,373 667,402 579,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.74</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords points="671,373 754,373 754,402 671,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.62</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords points="758,373 842,373 842,402 758,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.91</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords points="846,373 929,373 929,402 846,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="933,373 1025,373 1025,402 933,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1397</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords points="1029,373 1110,373 1110,402 1029,402"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords points="68,406 103,406 103,463 68,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords points="107,406 491,406 491,463 107,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>ASM International NV,
+Netherlands</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords points="495,406 575,406 575,463 495,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>95</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="paragraph">
+	<Coords points="579,406 667,406 667,463 579,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>397</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords points="671,406 754,406 754,463 671,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>3.97</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords points="758,406 842,406 842,463 758,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>3.03</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords points="846,406 929,406 929,463 846,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.06</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords points="933,406 1025,406 1025,463 933,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1060</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords points="1029,406 1110,406 1110,463 1029,463"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1060</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords points="68,467 103,467 103,494 68,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="paragraph">
+	<Coords points="107,467 491,467 491,494 107,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>FormFactor Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="495,467 575,467 575,494 495,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords points="579,467 667,467 667,494 579,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords points="671,467 754,467 754,494 671,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="paragraph">
+	<Coords points="758,467 842,467 842,494 758,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>2.87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="paragraph">
+	<Coords points="846,467 929,467 929,494 846,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords points="933,467 1025,467 1025,494 933,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>726</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r82" type="paragraph">
+	<Coords points="1029,467 1110,467 1110,494 1029,494"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>726</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r83" type="paragraph">
+	<Coords points="68,498 103,498 103,547 68,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords points="107,498 491,498 491,547 107,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Micronic Laser Systems AB,
+Sweden</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="paragraph">
+	<Coords points="495,498 575,498 575,547 495,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="paragraph">
+	<Coords points="579,498 667,498 667,547 579,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r87" type="paragraph">
+	<Coords points="671,498 754,498 754,547 671,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="paragraph">
+	<Coords points="758,498 842,498 842,547 758,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>3.68</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords points="846,498 929,498 929,547 846,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r90" type="paragraph">
+	<Coords points="933,498 1025,498 1025,547 933,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>457</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r91" type="paragraph">
+	<Coords points="1029,498 1110,498 1110,547 1029,547"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>457</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="paragraph">
+	<Coords points="68,551 103,551 103,584 68,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r93" type="paragraph">
+	<Coords points="107,551 491,551 491,584 107,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Amberwave Systems Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r94" type="paragraph">
+	<Coords points="495,551 575,551 575,584 495,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r95" type="paragraph">
+	<Coords points="579,551 667,551 667,584 579,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r96" type="paragraph">
+	<Coords points="671,551 754,551 754,584 671,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>4.24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="paragraph">
+	<Coords points="758,551 842,551 842,584 758,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>4.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r98" type="paragraph">
+	<Coords points="846,551 929,551 929,584 846,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r99" type="paragraph">
+	<Coords points="933,551 1025,551 1025,584 933,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>426</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords points="1029,551 1110,551 1110,584 1029,584"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>362</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r101" type="paragraph">
+	<Coords points="68,588 103,588 103,616 68,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r102" type="paragraph">
+	<Coords points="107,588 491,588 491,616 107,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Tokyo Electron Ltd., Japan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r103" type="paragraph">
+	<Coords points="495,588 575,588 575,616 495,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>237</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r104" type="paragraph">
+	<Coords points="579,588 667,588 667,616 579,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r105" type="paragraph">
+	<Coords points="671,588 754,588 754,616 671,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r106" type="paragraph">
+	<Coords points="758,588 842,588 842,616 758,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r107" type="paragraph">
+	<Coords points="846,588 929,588 929,616 846,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r108" type="paragraph">
+	<Coords points="933,588 1025,588 1025,616 933,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>309</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r109" type="paragraph">
+	<Coords points="1029,588 1110,588 1110,616 1029,616"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>309</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r110" type="paragraph">
+	<Coords points="68,620 103,620 103,671 68,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r111" type="paragraph">
+	<Coords points="107,620 491,620 491,671 107,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Advanced Semiconductor
+Engineering Inc., Taiwan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r112" type="paragraph">
+	<Coords points="495,620 575,620 575,671 495,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>83</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r113" type="paragraph">
+	<Coords points="579,620 667,620 667,671 579,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.44</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r114" type="paragraph">
+	<Coords points="671,620 754,620 754,671 671,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>144</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r115" type="paragraph">
+	<Coords points="758,620 842,620 842,671 758,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.58</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords points="846,620 929,620 929,671 846,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.88</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r117" type="paragraph">
+	<Coords points="933,620 1025,620 1025,671 933,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>306</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r118" type="paragraph">
+	<Coords points="1029,620 1110,620 1110,671 1029,671"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>306</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r119" type="paragraph">
+	<Coords points="68,675 103,675 103,707 68,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r120" type="paragraph">
+	<Coords points="107,675 491,675 491,707 107,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Aixtron AG, Germany</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r121" type="paragraph">
+	<Coords points="495,675 575,675 575,707 495,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r122" type="paragraph">
+	<Coords points="579,675 667,675 667,707 579,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r123" type="paragraph">
+	<Coords points="671,675 754,675 754,707 671,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>5.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r124" type="paragraph">
+	<Coords points="758,675 842,675 842,707 758,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>3.72</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r125" type="paragraph">
+	<Coords points="846,675 929,675 929,707 846,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.06</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r126" type="paragraph">
+	<Coords points="933,675 1025,675 1025,707 933,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>257</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r127" type="paragraph">
+	<Coords points="1029,675 1110,675 1110,707 1029,707"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>257</Unicode></TextEquiv></TextRegion>
+	<Grid>
+	<GridPoints index="0" points="66,309 105,309 493,309 577,309 669,309 756,309 844,309 931,309 1027,309 1112,309"/>
+	<GridPoints index="1" points="66,340 105,340 493,340 577,340 669,340 756,340 844,340 931,340 1027,340 1112,340"/>
+	<GridPoints index="2" points="66,371 105,371 493,371 577,371 669,371 756,371 844,371 931,371 1027,371 1112,371"/>
+	<GridPoints index="3" points="66,404 105,404 493,404 577,404 669,404 756,404 844,404 931,404 1027,404 1112,404"/>
+	<GridPoints index="4" points="66,465 105,465 493,465 577,465 669,465 756,465 844,465 931,465 1027,465 1112,465"/>
+	<GridPoints index="5" points="66,496 105,496 493,496 577,496 669,496 756,496 844,496 931,496 1027,496 1112,496"/>
+	<GridPoints index="6" points="66,549 105,549 493,549 577,549 669,549 756,549 844,549 931,549 1027,549 1112,549"/>
+	<GridPoints index="7" points="66,586 105,586 493,586 577,586 669,586 756,586 844,586 931,586 1027,586 1112,586"/>
+	<GridPoints index="8" points="66,618 105,618 493,618 577,618 669,618 756,618 844,618 931,618 1027,618 1112,618"/>
+	<GridPoints index="9" points="66,673 105,673 493,673 577,673 669,673 756,673 844,673 931,673 1027,673 1112,673"/>
+	<GridPoints index="10" points="66,709 105,709 493,709 577,709 669,709 756,709 844,709 931,709 1027,709 1112,709"/></Grid></TableRegion>
+	<TableRegion id="r22" rows="10" columns="9" orientation="0.00000" lineSeparators="false" bgColour="white" embText="false">
+	<Coords points="68,1210 68,860 1112,860 1112,1210"/>
+	<TextRegion id="r128" type="paragraph">
+	<Coords points="71,863 104,863 104,893 71,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r129" type="paragraph">
+	<Coords points="108,863 476,863 476,893 108,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Intel Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r130" type="paragraph">
+	<Coords points="480,863 573,863 573,893 480,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>1961</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r131" type="paragraph">
+	<Coords points="577,863 665,863 665,893 577,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r132" type="paragraph">
+	<Coords points="669,863 754,863 754,893 669,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r133" type="paragraph">
+	<Coords points="758,863 841,863 841,893 758,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="paragraph">
+	<Coords points="845,863 929,863 929,893 845,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r135" type="paragraph">
+	<Coords points="933,863 1021,863 1021,893 933,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>3752</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r136" type="paragraph">
+	<Coords points="1025,863 1110,863 1110,893 1025,893"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>3752</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r137" type="paragraph">
+	<Coords points="71,897 104,897 104,926 71,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r138" type="paragraph">
+	<Coords points="108,897 476,897 476,926 108,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Broadcom Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r139" type="paragraph">
+	<Coords points="480,897 573,897 573,926 480,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>661</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r140" type="paragraph">
+	<Coords points="577,897 665,897 665,926 577,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r141" type="paragraph">
+	<Coords points="669,897 754,897 754,926 669,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r142" type="paragraph">
+	<Coords points="758,897 841,897 841,926 758,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r143" type="paragraph">
+	<Coords points="845,897 929,897 929,926 845,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r144" type="paragraph">
+	<Coords points="933,897 1021,897 1021,926 933,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>2410</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r145" type="paragraph">
+	<Coords points="1025,897 1110,897 1110,926 1025,926"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>2410</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r146" type="paragraph">
+	<Coords points="71,930 104,930 104,959 71,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r147" type="paragraph">
+	<Coords points="108,930 476,930 476,959 108,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Micron Technology Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r148" type="paragraph">
+	<Coords points="480,930 573,930 573,959 480,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>1617</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r149" type="paragraph">
+	<Coords points="577,930 665,930 665,959 577,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.43</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r150" type="paragraph">
+	<Coords points="669,930 754,930 754,959 669,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r151" type="paragraph">
+	<Coords points="758,930 841,930 841,959 758,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.38</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r152" type="paragraph">
+	<Coords points="845,930 929,930 929,959 845,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r153" type="paragraph">
+	<Coords points="933,930 1021,930 1021,959 933,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>3696</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r154" type="paragraph">
+	<Coords points="1025,930 1110,930 1110,959 1025,959"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>2394</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r155" type="paragraph">
+	<Coords points="71,963 104,963 104,992 71,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r156" type="paragraph">
+	<Coords points="108,963 476,963 476,992 108,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Samsung Electronics Co., Korea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r157" type="paragraph">
+	<Coords points="480,963 573,963 573,992 480,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>2474</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r158" type="paragraph">
+	<Coords points="577,963 665,963 665,992 577,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r159" type="paragraph">
+	<Coords points="669,963 754,963 754,992 669,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r160" type="paragraph">
+	<Coords points="758,963 841,963 841,992 758,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r161" type="paragraph">
+	<Coords points="845,963 929,963 929,992 845,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r162" type="paragraph">
+	<Coords points="933,963 1021,963 1021,992 933,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>2346</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r163" type="paragraph">
+	<Coords points="1025,963 1110,963 1110,992 1025,992"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>2346</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r164" type="paragraph">
+	<Coords points="71,996 104,996 104,1046 71,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r165" type="paragraph">
+	<Coords points="108,996 476,996 476,1046 108,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Semiconductor Energy
+Laboratory Co., Japan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r166" type="paragraph">
+	<Coords points="480,996 573,996 573,1046 480,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>403</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r167" type="paragraph">
+	<Coords points="577,996 665,996 665,1046 577,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r168" type="paragraph">
+	<Coords points="669,996 754,996 754,1046 669,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r169" type="paragraph">
+	<Coords points="758,996 841,996 841,1046 758,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>2.32</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r170" type="paragraph">
+	<Coords points="845,996 929,996 929,1046 845,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r171" type="paragraph">
+	<Coords points="933,996 1021,996 1021,1046 933,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>2831</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r172" type="paragraph">
+	<Coords points="1025,996 1110,996 1110,1046 1025,1046"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1728</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r173" type="paragraph">
+	<Coords points="71,1050 104,1050 104,1078 71,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r174" type="paragraph">
+	<Coords points="108,1050 476,1050 476,1078 108,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Texas Instruments Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r175" type="paragraph">
+	<Coords points="480,1050 573,1050 573,1078 480,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>890</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r176" type="paragraph">
+	<Coords points="577,1050 665,1050 665,1078 577,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.06</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r177" type="paragraph">
+	<Coords points="669,1050 754,1050 754,1078 669,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.06</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r178" type="paragraph">
+	<Coords points="758,1050 841,1050 841,1078 758,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r179" type="paragraph">
+	<Coords points="845,1050 929,1050 929,1078 845,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r180" type="paragraph">
+	<Coords points="933,1050 1021,1050 1021,1078 933,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r181" type="paragraph">
+	<Coords points="1025,1050 1110,1050 1110,1078 1025,1078"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r182" type="paragraph">
+	<Coords points="71,1082 104,1082 104,1112 71,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r183" type="paragraph">
+	<Coords points="108,1082 476,1082 476,1112 108,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Xilinx Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r184" type="paragraph">
+	<Coords points="480,1082 573,1082 573,1112 480,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>261</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r185" type="paragraph">
+	<Coords points="577,1082 665,1082 665,1112 577,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.49</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r186" type="paragraph">
+	<Coords points="669,1082 754,1082 754,1112 669,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r187" type="paragraph">
+	<Coords points="758,1082 841,1082 841,1112 758,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r188" type="paragraph">
+	<Coords points="845,1082 929,1082 929,1112 845,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.03</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r189" type="paragraph">
+	<Coords points="933,1082 1021,1082 1021,1112 933,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1106</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r190" type="paragraph">
+	<Coords points="1025,1082 1110,1082 1110,1112 1025,1112"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1088</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r191" type="paragraph">
+	<Coords points="71,1116 104,1116 104,1141 71,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r192" type="paragraph">
+	<Coords points="108,1116 476,1116 476,1141 108,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>SanDisk Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r193" type="paragraph">
+	<Coords points="480,1116 573,1116 573,1141 480,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>116</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r194" type="paragraph">
+	<Coords points="577,1116 665,1116 665,1141 577,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>2.51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r195" type="paragraph">
+	<Coords points="669,1116 754,1116 754,1141 669,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>2.24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r196" type="paragraph">
+	<Coords points="758,1116 841,1116 841,1141 758,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>2.47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r197" type="paragraph">
+	<Coords points="845,1116 929,1116 929,1141 845,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r198" type="paragraph">
+	<Coords points="933,1116 1021,1116 1021,1141 933,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>845</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r199" type="paragraph">
+	<Coords points="1025,1116 1110,1116 1110,1141 1025,1141"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>755</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r200" type="paragraph">
+	<Coords points="71,1145 104,1145 104,1174 71,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r201" type="paragraph">
+	<Coords points="108,1145 476,1145 476,1174 108,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Altera Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r202" type="paragraph">
+	<Coords points="480,1145 573,1145 573,1174 480,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>202</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r203" type="paragraph">
+	<Coords points="577,1145 665,1145 665,1174 577,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.42</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r204" type="paragraph">
+	<Coords points="669,1145 754,1145 754,1174 669,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r205" type="paragraph">
+	<Coords points="758,1145 841,1145 841,1174 758,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.70</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r206" type="paragraph">
+	<Coords points="845,1145 929,1145 929,1174 845,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.98</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r207" type="paragraph">
+	<Coords points="933,1145 1021,1145 1021,1174 933,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>822</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r208" type="paragraph">
+	<Coords points="1025,1145 1110,1145 1110,1174 1025,1174"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>726</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r209" type="paragraph">
+	<Coords points="71,1178 104,1178 104,1208 71,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r210" type="paragraph">
+	<Coords points="108,1178 476,1178 476,1208 108,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Rambus Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r211" type="paragraph">
+	<Coords points="480,1178 573,1178 573,1208 480,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>101</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r212" type="paragraph">
+	<Coords points="577,1178 665,1178 665,1208 577,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.73</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r213" type="paragraph">
+	<Coords points="669,1178 754,1178 754,1208 669,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.61</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r214" type="paragraph">
+	<Coords points="758,1178 841,1178 841,1208 758,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.89</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r215" type="paragraph">
+	<Coords points="845,1178 929,1178 929,1208 845,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r216" type="paragraph">
+	<Coords points="933,1178 1021,1178 1021,1208 933,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>731</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r217" type="paragraph">
+	<Coords points="1025,1178 1110,1178 1110,1208 1025,1208"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>679</Unicode></TextEquiv></TextRegion>
+	<Grid>
+	<GridPoints index="0" points="69,861 106,861 478,861 575,861 667,861 756,861 843,861 931,861 1023,861 1112,861"/>
+	<GridPoints index="1" points="69,895 106,895 478,895 575,895 667,895 756,895 843,895 931,895 1023,895 1112,895"/>
+	<GridPoints index="2" points="69,928 106,928 478,928 575,928 667,928 756,928 843,928 931,928 1023,928 1112,928"/>
+	<GridPoints index="3" points="69,961 106,961 478,961 575,961 667,961 756,961 843,961 931,961 1023,961 1112,961"/>
+	<GridPoints index="4" points="69,994 106,994 478,994 575,994 667,994 756,994 843,994 931,994 1023,994 1112,994"/>
+	<GridPoints index="5" points="69,1048 106,1048 478,1048 575,1048 667,1048 756,1048 843,1048 931,1048 1023,1048 1112,1048"/>
+	<GridPoints index="6" points="69,1080 106,1080 478,1080 575,1080 667,1080 756,1080 843,1080 931,1080 1023,1080 1112,1080"/>
+	<GridPoints index="7" points="69,1114 106,1114 478,1114 575,1114 667,1114 756,1114 843,1114 931,1114 1023,1114 1112,1114"/>
+	<GridPoints index="8" points="69,1143 106,1143 478,1143 575,1143 667,1143 756,1143 843,1143 931,1143 1023,1143 1112,1143"/>
+	<GridPoints index="9" points="69,1176 106,1176 478,1176 575,1176 667,1176 756,1176 843,1176 931,1176 1023,1176 1112,1176"/>
+	<GridPoints index="10" points="69,1210 106,1210 478,1210 575,1210 667,1210 756,1210 843,1210 931,1210 1023,1210 1112,1210"/></Grid></TableRegion>
+	<TableRegion id="r23" rows="10" columns="9" orientation="0.00000" lineSeparators="false" bgColour="white" embText="false">
+	<Coords points="1109,1718 1109,1362 64,1362 64,1718"/>
+	<TextRegion id="r218" type="paragraph">
+	<Coords points="67,1365 102,1365 102,1396 67,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r219" type="paragraph">
+	<Coords points="106,1365 480,1365 480,1396 106,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Cisco Systems Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r220" type="paragraph">
+	<Coords points="484,1365 574,1365 574,1396 484,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>676</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r221" type="paragraph">
+	<Coords points="578,1365 665,1365 665,1396 578,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.41</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r222" type="paragraph">
+	<Coords points="669,1365 753,1365 753,1396 669,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.41</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r223" type="paragraph">
+	<Coords points="757,1365 838,1365 838,1396 757,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r224" type="paragraph">
+	<Coords points="842,1365 928,1365 928,1396 842,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r225" type="paragraph">
+	<Coords points="932,1365 1020,1365 1020,1396 932,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1796</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r226" type="paragraph">
+	<Coords points="1024,1365 1107,1365 1107,1396 1024,1396"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1796</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r227" type="paragraph">
+	<Coords points="67,1400 102,1400 102,1432 67,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r228" type="paragraph">
+	<Coords points="106,1400 480,1400 480,1432 106,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Motorola Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r229" type="paragraph">
+	<Coords points="484,1400 574,1400 574,1432 484,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>798</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r230" type="paragraph">
+	<Coords points="578,1400 665,1400 665,1432 578,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r231" type="paragraph">
+	<Coords points="669,1400 753,1400 753,1432 669,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r232" type="paragraph">
+	<Coords points="757,1400 838,1400 838,1432 757,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r233" type="paragraph">
+	<Coords points="842,1400 928,1400 928,1432 842,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.98</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r234" type="paragraph">
+	<Coords points="932,1400 1020,1400 1020,1432 932,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1484</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r235" type="paragraph">
+	<Coords points="1024,1400 1107,1400 1107,1432 1024,1432"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1484</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r236" type="paragraph">
+	<Coords points="67,1436 102,1436 102,1463 67,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r237" type="paragraph">
+	<Coords points="106,1436 480,1436 480,1463 106,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Nokia Corp., Finland</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r238" type="paragraph">
+	<Coords points="484,1436 574,1436 574,1463 484,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>744</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r239" type="paragraph">
+	<Coords points="578,1436 665,1436 665,1463 578,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r240" type="paragraph">
+	<Coords points="669,1436 753,1436 753,1463 669,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r241" type="paragraph">
+	<Coords points="757,1436 838,1436 838,1463 757,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.09</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r242" type="paragraph">
+	<Coords points="842,1436 928,1436 928,1463 842,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.03</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r243" type="paragraph">
+	<Coords points="932,1436 1020,1436 1020,1463 932,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1340</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r244" type="paragraph">
+	<Coords points="1024,1436 1107,1436 1107,1463 1024,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1340</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r245" type="paragraph">
+	<Coords points="67,1467 102,1467 102,1494 67,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r246" type="paragraph">
+	<Coords points="106,1467 480,1467 480,1494 106,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Qualcomm Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r247" type="paragraph">
+	<Coords points="484,1467 574,1467 574,1494 484,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>415</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r248" type="paragraph">
+	<Coords points="578,1467 665,1467 665,1494 578,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r249" type="paragraph">
+	<Coords points="669,1467 753,1467 753,1494 669,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r250" type="paragraph">
+	<Coords points="757,1467 838,1467 838,1494 757,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r251" type="paragraph">
+	<Coords points="842,1467 928,1467 928,1494 842,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.01</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r252" type="paragraph">
+	<Coords points="932,1467 1020,1467 1020,1494 932,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1285</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r253" type="paragraph">
+	<Coords points="1024,1467 1107,1467 1107,1494 1024,1494"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1285</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r254" type="paragraph">
+	<Coords points="67,1498 102,1498 102,1527 67,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r255" type="paragraph">
+	<Coords points="106,1498 480,1498 480,1527 106,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Alcatel-Lucent, France</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r256" type="paragraph">
+	<Coords points="484,1498 574,1498 574,1527 484,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>885</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r257" type="paragraph">
+	<Coords points="578,1498 665,1498 665,1527 578,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r258" type="paragraph">
+	<Coords points="669,1498 753,1498 753,1527 669,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r259" type="paragraph">
+	<Coords points="757,1498 838,1498 838,1527 757,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r260" type="paragraph">
+	<Coords points="842,1498 928,1498 928,1527 842,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r261" type="paragraph">
+	<Coords points="932,1498 1020,1498 1020,1527 932,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1002</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r262" type="paragraph">
+	<Coords points="1024,1498 1107,1498 1107,1527 1024,1527"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1002</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r263" type="paragraph">
+	<Coords points="67,1531 102,1531 102,1561 67,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r264" type="paragraph">
+	<Coords points="106,1531 480,1531 480,1561 106,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Finisar Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r265" type="paragraph">
+	<Coords points="484,1531 574,1531 574,1561 484,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>126</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r266" type="paragraph">
+	<Coords points="578,1531 665,1531 665,1561 578,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r267" type="paragraph">
+	<Coords points="669,1531 753,1531 753,1561 669,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.59</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r268" type="paragraph">
+	<Coords points="757,1531 838,1531 838,1561 757,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>2.01</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r269" type="paragraph">
+	<Coords points="842,1531 928,1531 928,1561 842,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r270" type="paragraph">
+	<Coords points="932,1531 1020,1531 1020,1561 932,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>515</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r271" type="paragraph">
+	<Coords points="1024,1531 1107,1531 1107,1561 1024,1561"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>513</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r272" type="paragraph">
+	<Coords points="67,1565 102,1565 102,1593 67,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r273" type="paragraph">
+	<Coords points="106,1565 480,1565 480,1593 106,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Tekelec, U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r274" type="paragraph">
+	<Coords points="484,1565 574,1565 574,1593 484,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>44</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r275" type="paragraph">
+	<Coords points="578,1565 665,1565 665,1593 578,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.71</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r276" type="paragraph">
+	<Coords points="669,1565 753,1565 753,1593 669,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.71</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r277" type="paragraph">
+	<Coords points="757,1565 838,1565 838,1593 757,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>2.19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r278" type="paragraph">
+	<Coords points="842,1565 928,1565 928,1593 842,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r279" type="paragraph">
+	<Coords points="932,1565 1020,1565 1020,1593 932,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>475</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r280" type="paragraph">
+	<Coords points="1024,1565 1107,1565 1107,1593 1024,1593"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>475</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r281" type="paragraph">
+	<Coords points="67,1597 102,1597 102,1626 67,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r282" type="paragraph">
+	<Coords points="106,1597 480,1597 480,1626 106,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Juniper Networks Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r283" type="paragraph">
+	<Coords points="484,1597 574,1597 574,1626 484,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>85</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r284" type="paragraph">
+	<Coords points="578,1597 665,1597 665,1626 578,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>2.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r285" type="paragraph">
+	<Coords points="669,1597 753,1597 753,1626 669,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>2.18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r286" type="paragraph">
+	<Coords points="757,1597 838,1597 838,1626 757,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r287" type="paragraph">
+	<Coords points="842,1597 928,1597 928,1626 842,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r288" type="paragraph">
+	<Coords points="932,1597 1020,1597 1020,1626 932,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>430</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r289" type="paragraph">
+	<Coords points="1024,1597 1107,1597 1107,1626 1024,1626"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>430</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r290" type="paragraph">
+	<Coords points="67,1630 102,1630 102,1680 67,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r291" type="paragraph">
+	<Coords points="106,1630 480,1630 480,1680 106,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Telefonaktiebolaget LM Ericsson,
+Sweden</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r292" type="paragraph">
+	<Coords points="484,1630 574,1630 574,1680 484,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>390</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r293" type="paragraph">
+	<Coords points="578,1630 665,1630 665,1680 578,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r294" type="paragraph">
+	<Coords points="669,1630 753,1630 753,1680 669,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r295" type="paragraph">
+	<Coords points="757,1630 838,1630 838,1680 757,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r296" type="paragraph">
+	<Coords points="842,1630 928,1630 928,1680 842,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.97</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r297" type="paragraph">
+	<Coords points="932,1630 1020,1630 1020,1680 932,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>388</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r298" type="paragraph">
+	<Coords points="1024,1630 1107,1630 1107,1680 1024,1680"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>388</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r299" type="paragraph">
+	<Coords points="67,1684 102,1684 102,1716 67,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r300" type="paragraph">
+	<Coords points="106,1684 480,1684 480,1716 106,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Nortel Networks Corp., Canada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r301" type="paragraph">
+	<Coords points="484,1684 574,1684 574,1716 484,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>322</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r302" type="paragraph">
+	<Coords points="578,1684 665,1684 665,1716 578,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r303" type="paragraph">
+	<Coords points="669,1684 753,1684 753,1716 669,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r304" type="paragraph">
+	<Coords points="757,1684 838,1684 838,1716 757,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r305" type="paragraph">
+	<Coords points="842,1684 928,1684 928,1716 842,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r306" type="paragraph">
+	<Coords points="932,1684 1020,1684 1020,1716 932,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>374</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r307" type="paragraph">
+	<Coords points="1024,1684 1107,1684 1107,1716 1024,1716"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>374</Unicode></TextEquiv></TextRegion>
+	<Grid>
+	<GridPoints index="0" points="65,1363 104,1363 482,1363 576,1363 667,1363 755,1363 840,1363 930,1363 1022,1363 1109,1363"/>
+	<GridPoints index="1" points="65,1398 104,1398 482,1398 576,1398 667,1398 755,1398 840,1398 930,1398 1022,1398 1109,1398"/>
+	<GridPoints index="2" points="65,1434 104,1434 482,1434 576,1434 667,1434 755,1434 840,1434 930,1434 1022,1434 1109,1434"/>
+	<GridPoints index="3" points="65,1465 104,1465 482,1465 576,1465 667,1465 755,1465 840,1465 930,1465 1022,1465 1109,1465"/>
+	<GridPoints index="4" points="65,1496 104,1496 482,1496 576,1496 667,1496 755,1496 840,1496 930,1496 1022,1496 1109,1496"/>
+	<GridPoints index="5" points="65,1529 104,1529 482,1529 576,1529 667,1529 755,1529 840,1529 930,1529 1022,1529 1109,1529"/>
+	<GridPoints index="6" points="65,1563 104,1563 482,1563 576,1563 667,1563 755,1563 840,1563 930,1563 1022,1563 1109,1563"/>
+	<GridPoints index="7" points="65,1595 104,1595 482,1595 576,1595 667,1595 755,1595 840,1595 930,1595 1022,1595 1109,1595"/>
+	<GridPoints index="8" points="65,1628 104,1628 482,1628 576,1628 667,1628 755,1628 840,1628 930,1628 1022,1628 1109,1628"/>
+	<GridPoints index="9" points="65,1682 104,1682 482,1682 576,1682 667,1682 755,1682 840,1682 930,1682 1022,1682 1109,1682"/>
+	<GridPoints index="10" points="65,1718 104,1718 482,1718 576,1718 667,1718 755,1718 840,1718 930,1718 1022,1718 1109,1718"/></Grid></TableRegion>
+	<TableRegion id="r24" rows="10" columns="9" orientation="0.00000" lineSeparators="false" bgColour="white" embText="false">
+	<Coords points="1110,1872 1110,2320 64,2320 64,1872"/>
+	<TextRegion id="r308" type="paragraph">
+	<Coords points="67,1875 103,1875 103,1902 67,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r309" type="paragraph">
+	<Coords points="107,1875 481,1875 481,1902 107,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>AT&amp;T Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r310" type="paragraph">
+	<Coords points="485,1875 571,1875 571,1902 485,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>763</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r311" type="paragraph">
+	<Coords points="575,1875 663,1875 663,1902 575,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r312" type="paragraph">
+	<Coords points="667,1875 752,1875 752,1902 667,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r313" type="paragraph">
+	<Coords points="756,1875 841,1875 841,1902 756,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r314" type="paragraph">
+	<Coords points="845,1875 931,1875 931,1902 845,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r315" type="paragraph">
+	<Coords points="935,1875 1019,1875 1019,1902 935,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1445</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r316" type="paragraph">
+	<Coords points="1023,1875 1108,1875 1108,1902 1023,1902"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>1445</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r317" type="paragraph">
+	<Coords points="67,1906 103,1906 103,1936 67,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r318" type="paragraph">
+	<Coords points="107,1906 481,1906 481,1936 107,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Research in Motion Ltd., Canada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r319" type="paragraph">
+	<Coords points="485,1906 571,1906 571,1936 485,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>88</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r320" type="paragraph">
+	<Coords points="575,1906 663,1906 663,1936 575,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>3.57</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r321" type="paragraph">
+	<Coords points="667,1906 752,1906 752,1936 667,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>2.56</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r322" type="paragraph">
+	<Coords points="756,1906 841,1906 841,1936 756,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r323" type="paragraph">
+	<Coords points="845,1906 931,1906 931,1936 845,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.08</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r324" type="paragraph">
+	<Coords points="935,1906 1019,1906 1019,1936 935,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>1233</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r325" type="paragraph">
+	<Coords points="1023,1906 1108,1906 1108,1936 1023,1936"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>882</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r326" type="paragraph">
+	<Coords points="67,1940 103,1940 103,1969 67,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r327" type="paragraph">
+	<Coords points="107,1940 481,1940 481,1969 107,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Siemens AG, Germany</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r328" type="paragraph">
+	<Coords points="485,1940 571,1940 571,1969 485,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>1514</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r329" type="paragraph">
+	<Coords points="575,1940 663,1940 663,1969 575,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.67</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r330" type="paragraph">
+	<Coords points="667,1940 752,1940 752,1969 667,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.67</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r331" type="paragraph">
+	<Coords points="756,1940 841,1940 841,1969 756,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r332" type="paragraph">
+	<Coords points="845,1940 931,1940 931,1969 845,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r333" type="paragraph">
+	<Coords points="935,1940 1019,1940 1019,1969 935,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>822</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r334" type="paragraph">
+	<Coords points="1023,1940 1108,1940 1108,1969 1023,1969"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>822</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r335" type="paragraph">
+	<Coords points="67,1973 103,1973 103,2000 67,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r336" type="paragraph">
+	<Coords points="107,1973 481,1973 481,2000 107,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Sprint Nextel Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r337" type="paragraph">
+	<Coords points="485,1973 571,1973 571,2000 485,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>191</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r338" type="paragraph">
+	<Coords points="575,1973 663,1973 663,2000 575,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r339" type="paragraph">
+	<Coords points="667,1973 752,1973 752,2000 667,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r340" type="paragraph">
+	<Coords points="756,1973 841,1973 841,2000 756,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r341" type="paragraph">
+	<Coords points="845,1973 931,1973 931,2000 845,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.95</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r342" type="paragraph">
+	<Coords points="935,1973 1019,1973 1019,2000 935,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>323</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r343" type="paragraph">
+	<Coords points="1023,1973 1108,1973 1108,2000 1023,2000"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>323</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r344" type="paragraph">
+	<Coords points="67,2004 103,2004 103,2058 67,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r345" type="paragraph">
+	<Coords points="107,2004 481,2004 481,2058 107,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Nippon Telegraph &amp; Telephone
+Corp. (NTT), Japan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r346" type="paragraph">
+	<Coords points="485,2004 571,2004 571,2058 485,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>237</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" type="paragraph">
+	<Coords points="575,2004 663,2004 663,2058 575,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.86</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r348" type="paragraph">
+	<Coords points="667,2004 752,2004 752,2058 667,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.86</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" type="paragraph">
+	<Coords points="756,2004 841,2004 841,2058 756,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r350" type="paragraph">
+	<Coords points="845,2004 931,2004 931,2058 845,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r351" type="paragraph">
+	<Coords points="935,2004 1019,2004 1019,2058 935,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r352" type="paragraph">
+	<Coords points="1023,2004 1108,2004 1108,2058 1023,2058"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r353" type="paragraph">
+	<Coords points="67,2062 103,2062 103,2115 67,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r354" type="paragraph">
+	<Coords points="107,2062 481,2062 481,2115 107,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Verizon Communications Inc.,
+U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r355" type="paragraph">
+	<Coords points="485,2062 571,2062 571,2115 485,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>103</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r356" type="paragraph">
+	<Coords points="575,2062 663,2062 663,2115 575,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>1.46</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r357" type="paragraph">
+	<Coords points="667,2062 752,2062 752,2115 667,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>1.46</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r358" type="paragraph">
+	<Coords points="756,2062 841,2062 841,2115 756,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r359" type="paragraph">
+	<Coords points="845,2062 931,2062 931,2115 845,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r360" type="paragraph">
+	<Coords points="935,2062 1019,2062 1019,2115 935,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>203</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r361" type="paragraph">
+	<Coords points="1023,2062 1108,2062 1108,2115 1023,2115"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>203</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r362" type="paragraph">
+	<Coords points="67,2119 103,2119 103,2174 67,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r363" type="paragraph">
+	<Coords points="107,2119 481,2119 481,2174 107,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>InterDigital Communications
+Corp., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r364" type="paragraph">
+	<Coords points="485,2119 571,2119 571,2174 485,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>213</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r365" type="paragraph">
+	<Coords points="575,2119 663,2119 663,2174 575,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r366" type="paragraph">
+	<Coords points="667,2119 752,2119 752,2174 667,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.75</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r367" type="paragraph">
+	<Coords points="756,2119 841,2119 841,2174 756,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.79</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r368" type="paragraph">
+	<Coords points="845,2119 931,2119 931,2174 845,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.01</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r369" type="paragraph">
+	<Coords points="935,2119 1019,2119 1019,2174 935,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>225</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r370" type="paragraph">
+	<Coords points="1023,2119 1108,2119 1108,2174 1023,2174"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>201</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r371" type="paragraph">
+	<Coords points="67,2178 103,2178 103,2228 67,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r372" type="paragraph">
+	<Coords points="107,2178 481,2178 481,2228 107,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>NTT DoCoMo Inc. (subsidiary
+of NTT), Japan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r373" type="paragraph">
+	<Coords points="485,2178 571,2178 571,2228 485,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>140</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r374" type="paragraph">
+	<Coords points="575,2178 663,2178 663,2228 575,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r375" type="paragraph">
+	<Coords points="667,2178 752,2178 752,2228 667,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r376" type="paragraph">
+	<Coords points="756,2178 841,2178 841,2228 756,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r377" type="paragraph">
+	<Coords points="845,2178 931,2178 931,2228 845,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.95</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r378" type="paragraph">
+	<Coords points="935,2178 1019,2178 1019,2228 935,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r379" type="paragraph">
+	<Coords points="1023,2178 1108,2178 1108,2228 1023,2228"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r380" type="paragraph">
+	<Coords points="67,2232 103,2232 103,2260 67,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r381" type="paragraph">
+	<Coords points="107,2232 481,2232 481,2260 107,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>BenQ Corp., Taiwan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r382" type="paragraph">
+	<Coords points="485,2232 571,2232 571,2260 485,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>138</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r383" type="paragraph">
+	<Coords points="575,2232 663,2232 663,2260 575,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.53</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r384" type="paragraph">
+	<Coords points="667,2232 752,2232 752,2260 667,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.53</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r385" type="paragraph">
+	<Coords points="756,2232 841,2232 841,2260 756,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>0.87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r386" type="paragraph">
+	<Coords points="845,2232 931,2232 931,2260 845,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>0.96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r387" type="paragraph">
+	<Coords points="935,2232 1019,2232 1019,2260 935,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>85</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r388" type="paragraph">
+	<Coords points="1023,2232 1108,2232 1108,2260 1023,2260"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>85</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r389" type="paragraph">
+	<Coords points="67,2264 103,2264 103,2318 67,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r390" type="paragraph">
+	<Coords points="107,2264 481,2264 481,2318 107,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Qwest Communications
+International Inc., U.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r391" type="paragraph">
+	<Coords points="485,2264 571,2264 571,2318 485,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r392" type="paragraph">
+	<Coords points="575,2264 663,2264 663,2318 575,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>0.94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r393" type="paragraph">
+	<Coords points="667,2264 752,2264 752,2318 667,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>0.94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r394" type="paragraph">
+	<Coords points="756,2264 841,2264 841,2318 756,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>1.23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r395" type="paragraph">
+	<Coords points="845,2264 931,2264 931,2318 845,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>1.05</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r396" type="paragraph">
+	<Coords points="935,2264 1019,2264 1019,2318 935,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>68</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r397" type="paragraph">
+	<Coords points="1023,2264 1108,2264 1108,2318 1023,2318"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>68</Unicode></TextEquiv></TextRegion>
+	<Grid>
+	<GridPoints index="0" points="65,1873 105,1873 483,1873 573,1873 665,1873 754,1873 843,1873 933,1873 1021,1873 1110,1873"/>
+	<GridPoints index="1" points="65,1904 105,1904 483,1904 573,1904 665,1904 754,1904 843,1904 933,1904 1021,1904 1110,1904"/>
+	<GridPoints index="2" points="65,1938 105,1938 483,1938 573,1938 665,1938 754,1938 843,1938 933,1938 1021,1938 1110,1938"/>
+	<GridPoints index="3" points="65,1971 105,1971 483,1971 573,1971 665,1971 754,1971 843,1971 933,1971 1021,1971 1110,1971"/>
+	<GridPoints index="4" points="65,2002 105,2002 483,2002 573,2002 665,2002 754,2002 843,2002 933,2002 1021,2002 1110,2002"/>
+	<GridPoints index="5" points="65,2060 105,2060 483,2060 573,2060 665,2060 754,2060 843,2060 933,2060 1021,2060 1110,2060"/>
+	<GridPoints index="6" points="65,2117 105,2117 483,2117 573,2117 665,2117 754,2117 843,2117 933,2117 1021,2117 1110,2117"/>
+	<GridPoints index="7" points="65,2176 105,2176 483,2176 573,2176 665,2176 754,2176 843,2176 933,2176 1021,2176 1110,2176"/>
+	<GridPoints index="8" points="65,2230 105,2230 483,2230 573,2230 665,2230 754,2230 843,2230 933,2230 1021,2230 1110,2230"/>
+	<GridPoints index="9" points="65,2262 105,2262 483,2262 573,2262 665,2262 754,2262 843,2262 933,2262 1021,2262 1110,2262"/>
+	<GridPoints index="10" points="65,2320 105,2320 483,2320 573,2320 665,2320 754,2320 843,2320 933,2320 1021,2320 1110,2320"/></Grid></TableRegion>
+	<SeparatorRegion id="r25" orientation="0.00000" colour="black">
+	<Coords points="70,165 97,165 97,166 267,166 267,165 267,166 450,166 450,165 454,165 454,166 643,166 643,165 654,165 654,166 835,166 835,165 839,165 839,166 1026,166 1026,165 1063,165 1063,166 1112,166 1112,167 1113,167 1025,167 1025,168 71,168 71,167 70,167"/></SeparatorRegion>
+	<SeparatorRegion id="r26" orientation="90.00000" colour="black">
+	<Coords points="1160,92 1160,2972 1170,2972 1170,92"/></SeparatorRegion>
+	<TableRegion id="r28" rows="1" columns="9" lineColour="black" orientation="0.00000" lineSeparators="false" bgColour="white" embText="false">
+	<Coords points="1110,156 1110,84 66,84 66,156"/>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="69,87 118,87 118,154 69,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>Rank</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="122,87 460,87 460,154 122,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode>Company/Organization, Country</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="464,87 571,87 571,154 464,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode>2006 U.S.
+Patents</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="575,87 659,87 659,154 575,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="3"/></Roles>
+	<TextEquiv>
+	<Unicode>Pipeline
+Impact</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="663,87 749,87 749,154 663,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="4"/></Roles>
+	<TextEquiv>
+	<Unicode>Adjusted
+Pipeline
+Impact</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="753,87 840,87 840,154 753,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5"/></Roles>
+	<TextEquiv>
+	<Unicode>Pipeline
+Generality</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="844,87 937,87 937,154 844,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="6"/></Roles>
+	<TextEquiv>
+	<Unicode>Pipeline
+Originality</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="941,87 1022,87 1022,154 941,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="7"/></Roles>
+	<TextEquiv>
+	<Unicode>Pipeline
+Power</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="1026,87 1108,87 1108,154 1026,154"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="8"/></Roles>
+	<TextEquiv>
+	<Unicode>Adjusted
+Pipeline
+Power</Unicode></TextEquiv></TextRegion>
+	<Grid>
+	<GridPoints index="0" points="67,85 120,85 462,85 573,85 661,85 751,85 842,85 939,85 1024,85 1110,85"/>
+	<GridPoints index="1" points="67,156 120,156 462,156 573,156 661,156 751,156 842,156 939,156 1024,156 1110,156"/></Grid></TableRegion>
+	<TextRegion id="r30" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="69,3023 103,3023 103,3049 69,3049"/>
+	<TextEquiv>
+	<Unicode>36</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r31" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="734,3056 734,3020 146,3020 146,3056"/>
+	<TextEquiv>
+	<Unicode>IEEE Spectrum | November 2007 | INT</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00001097">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-07-01T14:19:12</Created>
+	<LastChange>2019-02-22T10:02:48</LastChange></Metadata>
+	<Page imageFilename="00771097.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2312" imageHeight="3224">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r5" index="7"/>
+	<RegionRefIndexed regionRef="r6" index="8"/>
+	<RegionRefIndexed regionRef="r7" index="9"/>
+	<RegionRefIndexed regionRef="r8" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="220,362 1335,362 1335,431 220,431"/>
+	<TextEquiv>
+	<Unicode>The Business of Software</Unicode></TextEquiv>
+	<TextStyle textColour="blue" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r1" orientation="0.00000" colour="black">
+	<Coords points="1363,371 1364,371 1364,481 2283,481 2283,482 2311,482 2296,482 2296,483 366,483 366,482 205,482 205,483 182,483 182,616 181,616 181,1736 180,1736 180,3043 179,3043 179,3044 179,3024 178,3024 178,3017 179,3017 179,2864 178,2864 178,2618 179,2618 179,2379 178,2379 178,2377 179,2377 179,2217 178,2217 179,2217 179,2059 178,2059 178,2058 179,2058 179,1897 178,1897 178,1817 179,1817 179,937 180,937 180,777 179,777 180,777 180,642 179,642 179,481 1362,481 1362,381 1363,381"/></SeparatorRegion>
+	<TextRegion id="r2" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="210,662 788,662 788,716 836,716 836,749 802,749 802,832 828,832 828,854 813,854 813,907 702,907 702,970 208,970 208,940 211,940 211,814 210,814 210,761 209,761 209,715 210,715"/>
+	<TextEquiv>
+	<Unicode>meet a deadline, we get it. Soft-
+ware developers are able to decode
+this situation quite correctly. We
+learn that what people say is what
+people say, but what people do is
+what is important to them.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="896,663 1433,663 1433,716 1519,716 1519,750 1494,750 1494,820 1496,820 1496,855 1331,855 1331,907 895,907 895,716 896,716"/>
+	<TextEquiv>
+	<Unicode>approach drains a company’s
+commitment batteries faster than
+anything. It also demonstrates a
+lack of understanding about the
+nature of commitment.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r5" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1578,669 1831,669 1831,697 1578,697"/>
+	<TextEquiv>
+	<Unicode>MAKING MONEY</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r6" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1576,716 2200,716 2200,762 2146,762 2146,802 2090,802 2090,876 2152,876 2152,926 2157,926 2157,991 2180,991 2180,1010 2138,1010 2138,1093 2150,1093 2150,1133 2178,1133 2178,1177 2173,1177 2173,1219 2122,1219 2122,1292 2195,1292 2195,1323 2185,1323 2185,1409 2188,1409 2188,1429 2129,1429 2129,1522 2132,1522 2132,1533 2103,1533 2103,1616 2134,1616 2134,1669 2180,1669 2180,1709 2197,1709 2197,1741 2194,1741 2194,1794 2063,1794 2063,1864 2168,1864 2168,1939 2176,1939 2176,1951 2149,1951 2149,2004 2067,2004 2067,2061 1576,2061 1576,2016 1575,2016 1575,1812 1576,1812 1576,1701 1575,1701 1575,1603 1576,1603 1576,1441 1575,1441 1575,1394 1576,1394 1576,1289 1577,1289 1577,1231 1576,1231 1576,1127 1575,1127 1575,1081 1576,1081 1576,1022 1575,1022 1575,978 1578,978 1578,907 1576,907 1576,802 1575,802 1575,767 1576,767"/>
+	<TextEquiv>
+	<Unicode>Some time ago, while conducting a
+seminar series on the nature of a
+software business, I asked the
+assembled executives: “...what is
+the ultimate goal of your business?"
+The almost universal response was
+“to make money.” Now making
+money is a good thing; I am not
+against it in any way and candidly
+I wouldn’t mind being a little bet-
+ter at it myself. However, if the
+core goal and purpose of a business
+is simply to make money, then the
+organization should be a bank or a
+casino. These are the only busi-
+nesses where money is the busi-
+ness; all other enterprises have
+other reasons to exist. It is quite
+dangerous for companies to inten-
+tionally or accidentally get into this
+mode. When the focus of the exec-
+utive management becomes
+directed entirely at the making of
+money they may completely abdi-
+cate the real purpose of the busi-
+ness, to the detriment of all.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r7" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1623,2074 2158,2074 2158,2127 2191,2127 2191,2160 2145,2160 2145,2234 2215,2234 2215,2235 2187,2235 2187,2327 2185,2327 2185,2368 2133,2368 2133,2454 2167,2454 2167,2464 2161,2464 2161,2544 2178,2544 2178,2579 2099,2579 2099,2649 2174,2649 2174,2682 2165,2682 2165,2765 2197,2765 2197,2786 2151,2786 2151,2837 2109,2837 2109,2901 1913,2901 1913,2955 1574,2955 1574,2902 1573,2902 1573,2856 1574,2856 1574,2492 1575,2492 1575,2433 1574,2433 1574,2281 1575,2281 1575,2171 1574,2171 1574,2126 1623,2126"/>
+	<TextEquiv>
+	<Unicode>When companies do this, the
+leadership may spend its time and
+energy buying and selling other
+businesses hoping to come out
+ahead ﬁnancially. The company is
+gambling; it is playing the market
+and acting like a casino. Some-
+times at the same time, the com-
+pany may attempt to leverage its
+asset value by devices such as sell-
+ing debt. This is, of course, a
+company acting like a bank. And
+these are just the legitimate busi-
+nesses—we have seen recently that
+companies can also get into ille-
+gally “making money” by, say,
+cooking the books.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r8" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1623,2960 2177,2960 2177,2994 2125,2994 2125,3059 1573,3059 1573,3015 1623,3015"/>
+	<TextEquiv>
+	<Unicode>The fate of process change ini-
+tiatives in companies behaving</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="209,1034 677,1034 677,1062 209,1062"/>
+	<TextEquiv>
+	<Unicode>COMMITTED TO COMMITMENT</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r10" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="897,982 1419,982 1419,1010 998,1010 998,1062 893,1062 893,1041 897,1041"/>
+	<TextEquiv>
+	<Unicode>DOING WHAT YOU DON’T WANT
+TO DO</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r11" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="210,1080 840,1080 840,1114 782,1114 782,1199 804,1199 804,1231 749,1231 749,1302 824,1302 824,1323 801,1323 801,1409 816,1409 816,1429 739,1429 739,1501 756,1501 756,1565 805,1565 805,1605 840,1605 840,1648 749,1648 749,1706 829,1706 829,1741 828,1741 828,1793 779,1793 779,1879 804,1879 804,1899 754,1899 754,1982 797,1982 797,2034 816,2034 816,2074 836,2074 836,2159 802,2159 802,2243 828,2243 828,2263 810,2263 810,2315 807,2315 807,2368 771,2368 771,2420 711,2420 711,2505 797,2505 797,2573 803,2573 803,2618 816,2618 816,2630 791,2630 791,2700 818,2700 818,2734 812,2734 812,2786 695,2786 695,2855 736,2855 736,2920 814,2920 814,2954 812,2954 812,2994 764,2994 764,3052 207,3052 207,3012 209,3012 209,2804 210,2804 210,2746 209,2746 209,2700 210,2700 210,2642 209,2642 209,2544 210,2544 210,2484 209,2484 209,2439 210,2439 210,2381 209,2381 209,2068 208,2068 208,2022 209,2022 209,1916 210,1916 210,1850 208,1850 208,1811 210,1811 210,1741 209,1741 209,1655 211,1655 211,1596 210,1596 210,1533 209,1533 209,1499 211,1499 211,1441 210,1441 210,1388 209,1388 209,1290 210,1290 210,1184 211,1184 211,1126 210,1126"/>
+	<TextEquiv>
+	<Unicode>One of my personal favorite ruses
+in process change is the “com-
+mitment” ploy. Without, hope-
+fully, appearing too cynical I
+would describe the commitment
+ploy as follows. A senior execu-
+tive makes a highly public state-
+ment about commitment to
+some facet of the business. It
+may be quality, customer focus,
+technology investment, appropri-
+ate resourcing of projects, or
+attention to the human needs of
+the work force. It may simply be
+whatever the current fad is, or
+the subject of the most popular
+business self-help book. This
+public statement is intended to
+generate enthusiasm on the part
+of those affected and who will be
+tasked to make, participate in, or
+endure the change. But it often
+has the reverse effect. Sometimes
+the statement is simply window
+dressing and nothing is done to
+implement it. Sometimes, the
+commitment does actually
+receive close attention and per-
+haps even its share of resources.
+That is, until fulfilling the com-
+mitment becomes difficult. Or
+expensive. Or a less popular fad.
+Or simply inconvenient. At this
+point, the commitment is
+shelved, or maybe just fades
+away, to be replaced by the next
+trendy initiative or the next fad.
+This is unfortunate, since the</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r12" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="945,2386 1491,2386 1491,2421 1471,2421 1471,2492 1480,2492 1480,2545 1490,2545 1490,2579 1477,2579 1477,2631 1443,2631 1443,2700 1516,2700 1516,2734 1438,2734 1438,2806 1489,2806 1489,2850 1484,2850 1484,2889 1430,2889 1430,2973 1445,2973 1445,3007 1024,3007 1024,3047 893,3047 893,3015 894,3015 894,2953 893,2953 893,2856 894,2856 894,2746 893,2746 893,2700 894,2700 894,2642 893,2642 893,2597 894,2597 894,2441 945,2441"/>
+	<TextEquiv>
+	<Unicode>People are very good at detect-
+ing this and separating the com-
+mitted wheat from the rhetorical
+chaff. Too much of the latter and
+people stop believing and invest-
+ing in change initiatives of any
+sort. They adopt compliant behav-
+iors and work on the window-
+dressing aspects while continuing
+to attempt to provide the organi-
+zation with what they think it
+really wants as evidenced by its
+actions.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r13" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="895,1080 1491,1080 1491,1147 1507,1147 1507,1166 1472,1166 1472,1240 1504,1240 1504,1271 1443,1271 1443,1324 1387,1324 1387,1397 1459,1397 1459,1460 1502,1460 1502,1482 1418,1482 1418,1553 1513,1553 1513,1585 1424,1585 1424,1657 1461,1657 1461,1721 1474,1721 1474,1759 1496,1759 1496,1794 1443,1794 1443,1846 1427,1846 1427,1917 1511,1917 1511,1963 1486,1963 1486,2037 1496,2037 1496,2074 1507,2074 1507,2107 1468,2107 1468,2192 1479,2192 1479,2216 1456,2216 1456,2274 1440,2274 1440,2327 1200,2327 1200,2368 894,2368 894,2327 893,2327 893,2281 894,2281 894,2229 895,2229 895,2171 894,2171 894,2074 895,2074 895,1964 894,1964 894,1911 893,1911 893,1864 894,1864 894,1811 895,1811 895,1751 893,1751 893,1706 895,1706 895,1597 894,1597 894,1551 895,1551 895,1441 894,1441 894,1397 895,1397 895,1282 894,1282 894,1231 893,1231 893,1184 894,1184 894,1132 895,1132"/>
+	<TextEquiv>
+	<Unicode>Commitment is not doing what
+you want to do. Doing what you
+want to do is, well, doing what
+you want to do. Commitment is
+doing what you don’t want to
+do—because it is difficult,
+expensive, or inconvenient. In
+fact, the more you don’t want to
+do something, but continue
+doing it because you believe it to
+be the right thing to do, the
+more you are committed to it.
+We could actually measure our
+commitment by the quantity of
+pain we are willing to endure
+while doing whatever we are
+committed to doing. If we really,
+really don’t want to stick to our
+quality gate process because it is
+costly, it slows us down, it is dif-
+ficult and tedious, or is simply
+inconvenient some of the time,
+but we continue doing it any-
+way, then we are really, really
+committed to it.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r14" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="330,3148 1028,3148 1028,3169 330,3169"/>
+	<TextEquiv>
+	<Unicode>March 2006/Vol. 49. No. 3 COMMUNICATIONS OF THE ACM</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r15" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="212,3140 250,3140 250,3165 212,3165"/>
+	<TextEquiv>
+	<Unicode>16</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

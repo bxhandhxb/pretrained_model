@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00000276">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-11-17T12:18:01</Created>
+	<LastChange>2019-02-20T10:39:48</LastChange></Metadata>
+	<Page imageFilename="00770276.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2293" imageHeight="3108">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="g0">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup>
+	<OrderedGroup id="g1">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r32" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/></OrderedGroup>
+	<OrderedGroup id="g2">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r47" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/>
+	<RegionRefIndexed regionRef="r49" index="5"/>
+	<RegionRefIndexed regionRef="r23" index="6"/>
+	<RegionRefIndexed regionRef="r48" index="7"/>
+	<RegionRefIndexed regionRef="r21" index="8"/>
+	<RegionRefIndexed regionRef="r20" index="9"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r0" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="294,171 738,171 738,224 294,224"/>
+	<TextEquiv>
+	<Unicode>CHESS VS. GO</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r1" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1023,172 1571,172 1571,227 1023,227"/>
+	<TextEquiv>
+	<Unicode>THE GOAL OF GO</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r2" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1028,271 1519,271 1519,313 1562,313 1562,335 1481,335 1481,383 1521,383 1521,419 1531,419 1531,453 1556,453 1556,488 1572,488 1572,516 1574,516 1574,544 1303,544 1303,579 1030,579 1030,446 1031,446 1031,405 1030,405 1030,300 1028,300"/>
+	<TextEquiv>
+	<Unicode>The object of Go is to enlarge your
+territory at your opponent’s expense.
+One way is by surrounding your
+opponent’s stones by putting your
+own stones on the adjacent points,
+which are known as “liberties.” Once
+surrounded, stones are removed from
+the board and become your prisoners,
+each worth a point.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r3" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1079,586 1541,586 1541,608 1526,608 1526,655 1561,655 1561,677 1555,677 1555,730 1578,730 1578,746 1538,746 1538,800 1575,800 1575,816 1567,816 1567,850 1547,850 1547,887 1030,887 1030,856 1029,856 1029,828 1030,828 1030,758 1031,758 1031,717 1029,717 1029,689 1031,689 1031,620 1079,620"/>
+	<TextEquiv>
+	<Unicode>Another way to claim territory is
+by surrounding empty space—that
+is, unoccupied intersections, each of
+which is also worth a point. Here, for
+instance, the two groups in the corner
+each enclose nine spaces, worth as
+many points. Obviously, it takes fewer
+stones to enclose territory at the cor-
+ners than in the middle of the board.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1035,969 1360,969 1360,1000 1035,1000"/>
+	<TextEquiv>
+	<Unicode>CAPTURING STONES</Unicode></TextEquiv>
+	<TextStyle textColour="orange" bgColour="white" reverseVideo="false"/></TextRegion>
+	<ImageRegion id="r5" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="112,266 112,670 514,670 514,266"/></ImageRegion>
+	<ImageRegion id="r6" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="546,264 546,672 958,672 958,264"/></ImageRegion>
+	<TextRegion id="r11" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1959,1336 2226,1336 2226,1359 2188,1359 2188,1396 2162,1396 2162,1431 2161,1431 2161,1489 2164,1489 2164,1496 1960,1496 1960,1460 1959,1460 1959,1431 1958,1431 1958,1370 1959,1370"/>
+	<TextEquiv>
+	<Unicode>If it were white’s turn
+to move, however,
+the player could
+block the above
+maneuver, thus.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r12" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1640,1337 1856,1337 1856,1378 1870,1378 1870,1395 1735,1395 1735,1430 1647,1430 1647,1359 1640,1359"/>
+	<TextEquiv>
+	<Unicode>...so that it may
+be taken off the
+board.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r14" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1025,1336 1231,1336 1231,1372 1233,1372 1233,1407 1289,1407 1289,1430 1212,1430 1212,1464 1025,1464 1025,1430 1023,1430 1023,1406 1025,1406"/>
+	<TextEquiv>
+	<Unicode>Here, with one
+more move the
+white stone will be
+surrounded...</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r15" orientation="0.00000" colour="orange">
+	<Coords points="104,1510 104,1542 2230,1542 2230,1510"/></SeparatorRegion>
+	<TextRegion id="r16" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="106,1620 1145,1620 1145,1647 1073,1647 1073,1699 105,1699 105,1666 106,1666"/>
+	<TextEquiv>
+	<Unicode>made progress. The reason is that humans are extremely good at
+recognizing patterns; it is one of the things that we do best.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r17" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="156,1711 1145,1711 1145,1757 1147,1757 1147,1803 1149,1803 1149,1864 1153,1864 1153,1866 1143,1866 1143,1987 1144,1987 1144,2033 1145,2033 1145,2067 1143,2067 1143,2113 537,2113 537,2159 104,2159 104,2125 105,2125 105,2078 106,2078 106,2021 105,2021 105,1882 103,1882 103,1836 101,1836 101,1805 105,1805 105,1759 156,1759"/>
+	<TextEquiv>
+	<Unicode>It was only in the late 1970s, with the success of Northwestern
+University's Chess 4.x program, written by David Slate and Larry
+Atkins, that the engineering school of thought became dominant.
+The idea was to let computers do what they do best, namely, cal-
+culate. A simple legal-move generator finds all the permissible
+moves in a position, considers all the possible responses, and
+then repeats the cycle. Each cycle is called a ply, each generation
+of new possibilities is called a node—that is, a branching point
+in a rapidly widening tree of analysis. The branches terminate
+in “leaf,” or end positions.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r19" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="153,2585 1142,2585 1142,2700 1147,2700 1147,2704 1142,2704 1142,2770 1146,2770 1146,2796 1141,2796 1141,2917 1144,2917 1144,2968 1151,2968 1151,2987 103,2987 103,2952 104,2952 104,2815 105,2815 105,2757 103,2757 103,2723 104,2723 104,2677 105,2677 105,2631 153,2631"/>
+	<TextEquiv>
+	<Unicode>There is, however, a course midway between selectivity and
+exhaustiveness. Instead of analyzing to the end, the program can
+merely look a few moves further ahead than a human could manage!
+Deep Blue typically looked 12 plies ahead in all variations (and 40
+or more plies in selective lines), generating around 170 million leaf
+nodes per second. Next, the program would evaluate each of these
+positions by counting “material,” that is, the standard values of the
+chess pieces. For example, a pawn is worth one point, a knight or
+bishop three, and so on. Then it added points for a range of posi-</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r20" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1246,2861 2226,2861 2226,2941 2225,2941 2225,2986 1195,2986 1195,2952 1196,2952 1196,2908 1246,2908"/>
+	<TextEquiv>
+	<Unicode>It was this almost linear relationship between search depth
+and playing strength that first made me believe chess could
+be solved. I wondered whether the relationship would continue</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r21" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1247,2539 2227,2539 2227,2608 2233,2608 2233,2612 2226,2612 2226,2678 2227,2678 2227,2712 2226,2712 2226,2769 2227,2769 2227,2804 1610,2804 1610,2849 1197,2849 1197,2816 1198,2816 1198,2758 1196,2758 1196,2631 1197,2631 1197,2586 1247,2586"/>
+	<TextEquiv>
+	<Unicode>Moving to a supercomputer made this enormous difference
+because it allowed the program to look just a little further ahead.
+Detailed measurements later showed that when a brute-force
+program searched just one ply deeper, its strength improved
+by between 200 and 300 rating points. When two players are
+separated by that big a gap, the higher-rated player will win, on
+average, 4 out of 5 games.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r23" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1247,1849 2229,1849 2229,1910 2239,1910 2239,1913 2228,1913 2228,1998 2232,1998 2232,2021 2229,2021 2229,2067 2228,2067 2228,2113 1800,2113 1800,2153 1199,2153 1199,2114 1198,2114 1198,2033 1199,2033 1199,1975 1197,1975 1197,1941 1198,1941 1198,1895 1247,1895"/>
+	<TextEquiv>
+	<Unicode>This substitution of search for judgment is the essence of the
+brute-force method, and it turned out to have two critical advan-
+tages over selective search. To begin with, the program became
+easier to write, had far fewer bugs, and did not have so many
+blind spots. And crucially, the program played significantly and
+measurably better as the processing power increased, once the
+switch to brute force had been made.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r25" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1198,1620 2147,1620 2147,1655 1198,1655"/>
+	<TextEquiv>
+	<Unicode>tional factors, chosen with the help of human grandmasters.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r27" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1857,3035 2224,3035 2224,3065 1857,3065"/>
+	<TextEquiv>
+	<Unicode>www.spectrum.ieee.org</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<GraphicRegion id="r29" type="decoration">
+	<Coords points="113,98 324,98 324,99 477,99 477,98 543,98 543,99 1133,99 1133,100 1266,100 1266,99 1614,99 1614,100 1793,100 1793,99 1876,99 1876,100 2056,100 2056,99 2104,99 2104,100 2236,100 2236,131 2237,131 2237,137 2236,137 2236,138 2233,138 2233,137 1668,137 1668,136 1530,136 1530,137 1443,137 1443,136 1266,136 1266,137 1226,137 1226,136 605,136 605,135 477,135 477,136 417,136 417,135 214,135 214,136 176,136 176,135 111,135 111,130 110,130 110,105 111,105 111,99 113,99"/></GraphicRegion>
+	<ImageRegion id="r30" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="2240,926 2240,276 1594,276 1594,926"/></ImageRegion>
+	<TextRegion id="r32" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1350,1336 1581,1336 1581,1355 1605,1355 1605,1365 1328,1365 1328,1355 1350,1355"/>
+	<TextEquiv>
+	<Unicode>...leaving it "dead"...</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<ImageRegion id="r33" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="1308,1318 1308,1032 1020,1032 1020,1318"/></ImageRegion>
+	<ImageRegion id="r34" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="1622,1318 1622,1030 1330,1030 1330,1318"/></ImageRegion>
+	<ImageRegion id="r35" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="2244,1320 2244,1030 1950,1030 1950,1320"/></ImageRegion>
+	<ImageRegion id="r36" colourDepth="colour" orientation="0.00000" embText="false">
+	<Coords points="1930,1318 1930,1028 1638,1028 1638,1318"/></ImageRegion>
+	<TextRegion id="r37" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="462,694 604,694 604,718 462,718"/>
+	<TextEquiv>
+	<Unicode>GRID SIZE</Unicode></TextEquiv>
+	<TextStyle textColour="orange" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TableRegion id="r38" rows="1" columns="2" lineColour="black" orientation="0.00000" lineSeparators="false" bgColour="white" embText="true">
+	<Coords points="369,733 730,733 730,762 369,762"/>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="372,735 372,760 438,760 438,735"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>8 x 8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="642,734 642,761 727,761 727,734"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>19 x 19</Unicode></TextEquiv></TextRegion></TableRegion>
+	<TextRegion id="r39" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="171,835 881,835 881,860 171,860"/>
+	<TextEquiv>
+	<Unicode>AVERAGE NUMBER OF MOVE CHOICES PER TURN</Unicode></TextEquiv>
+	<TextStyle textColour="orange" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TableRegion id="r40" rows="1" columns="2" lineColour="black" orientation="0.00000" lineSeparators="false" bgColour="white" embText="true">
+	<Coords points="400,874 780,874 780,903 400,903"/>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="402,876 402,902 438,902 438,876"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="641,876 641,902 776,902 776,876"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>200-300</Unicode></TextEquiv></TextRegion></TableRegion>
+	<TextRegion id="r41" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="331,979 725,979 725,1002 331,1002"/>
+	<TextEquiv>
+	<Unicode>LENGTH OF TYPICAL GAME</Unicode></TextEquiv>
+	<TextStyle textColour="orange" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TableRegion id="r42" rows="1" columns="2" lineColour="black" orientation="0.00000" lineSeparators="false" bgColour="white" embText="true">
+	<Coords points="298,1017 797,1017 797,1046 298,1046"/>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="301,1019 301,1045 437,1045 437,1019"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>60 moves</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="640,1019 640,1045 795,1045 795,1019"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>200 moves</Unicode></TextEquiv></TextRegion></TableRegion>
+	<TextRegion id="r43" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="232,1120 823,1120 823,1145 232,1145"/>
+	<TextEquiv>
+	<Unicode>NUMBER OF POSSIBLE GAME POSITIONS</Unicode></TextEquiv>
+	<TextStyle textColour="orange" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TableRegion id="r44" rows="1" columns="2" lineColour="black" orientation="0.00000" lineSeparators="false" bgColour="white" embText="true">
+	<Coords points="376,1160 701,1160 701,1189 376,1189"/>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="379,1162 379,1187 405,1187 405,1162"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="641,1162 641,1186 668,1186 668,1162"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords points="405,1162 405,1174 438,1174 438,1162"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>120</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="670,1162 670,1174 701,1174 701,1162"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>170</Unicode></TextEquiv></TextRegion></TableRegion>
+	<TextRegion id="r45" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="350,1262 703,1262 703,1294 790,1294 790,1324 266,1324 266,1293 350,1293"/>
+	<TextEquiv>
+	<Unicode>EXPLOSION OF CHOICES
+(starting from average game position)</Unicode></TextEquiv>
+	<TextStyle textColour="orange" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TableRegion id="r46" rows="4" columns="3" lineColour="black" orientation="0.00000" lineSeparators="false" bgColour="white" embText="true">
+	<Coords points="293,1335 846,1335 846,1465 293,1465"/>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="399,1337 399,1363 437,1363 437,1337"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="373,1371 373,1396 438,1396 438,1371"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1225</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="338,1431 338,1404 436,1404 436,1431"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>42 875</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="297,1463 297,1437 437,1437 437,1463"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1 500 625</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="489,1336 489,1362 580,1362 580,1336"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>Move 1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="488,1369 488,1395 590,1395 590,1369"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>Move 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords points="486,1402 486,1429 589,1429 589,1402"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>Move 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="486,1435 486,1462 590,1462 590,1435"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>Move 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords points="786,1335 786,1361 842,1361 842,1335"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>200</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="736,1368 736,1395 842,1395 842,1368"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>40 000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords points="686,1402 686,1429 841,1429 841,1402"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>8 000 000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords points="627,1437 627,1463 841,1463 841,1437"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode>1 600 000 000</Unicode></TextEquiv></TextRegion></TableRegion>
+	<TextRegion id="r47" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="155,2171 1145,2171 1145,2252 1143,2252 1143,2308 1145,2308 1145,2341 1144,2341 1144,2423 1148,2423 1148,2434 1142,2434 1142,2492 1143,2492 1143,2519 1060,2519 1060,2573 104,2573 104,2492 105,2492 105,2435 104,2435 104,2341 103,2341 103,2308 104,2308 104,2263 105,2263 105,2218 155,2218"/>
+	<TextEquiv>
+	<Unicode>Carried to its logical extreme, the tree would grow until it]
+BY every legal continuation, leaving the program nothing
+to do but examine the end positions to see which of them were
+wins—that is, checkmates—and which were draws, then work
+backward along the branching structure to choose the line that
+led to the best outcome, assuming that both sides play perfectly.
+Such exhaustive analysis is impractical, though, because it would
+produce a tree containing about 1060 positions. That’s about
+thousand times the number of hydrogen atoms in the sun.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r48" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1248,2172 2231,2172 2231,2233 2237,2233 2237,2235 2228,2235 2228,2356 2230,2356 2230,2401 2232,2401 2232,2428 2229,2428 2229,2481 1460,2481 1460,2527 1198,2527 1198,2481 1197,2481 1197,2309 1198,2309 1198,2252 1197,2252 1197,2219 1248,2219"/>
+	<TextEquiv>
+	<Unicode>Slate and Atkins believed their program was playing at only
+Class C level—that is, about the level of the typical avid tourna-
+ment player, who is rated between 1400 and 1600 on the U.S. Chess
+Federation’s rating scale. However, when they moved their program
+to a supercomputer, it shocked everyone by winning a tournament
+among Class A players, with ratings between 1800 and 2000. A
+Class A player is good enough to beat a Class C player 9 times out
+of 10, on average.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r49" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1247,1666 2232,1666 2232,1746 2230,1746 2230,1791 1624,1791 1624,1838 1199,1838 1199,1712 1247,1712"/>
+	<TextEquiv>
+	<Unicode>The resulting evaluation function probably was no better
+than a middling amateur’s ability to grade a single position. But
+by grading 200 million of them, it was able to do very well
+indeed. Just ask Kasparov.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r51" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="102,3033 138,3033 138,3059 102,3059"/>
+	<TextEquiv>
+	<Unicode>46</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r54" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="737,3064 737,3031 181,3031 181,3064"/>
+	<TextEquiv>
+	<Unicode>IEEE Spectrum | October 2007 | INT</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r55" orientation="-90.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2267,2641 2267,2980 2281,2980 2281,2641"/>
+	<TextEquiv>
+	<Unicode>DIAGRAMS: BRYAN CHRISTIE DESIGN</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

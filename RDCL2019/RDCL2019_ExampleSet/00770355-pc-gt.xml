@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00000355">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-11-09T11:05:20</Created>
+	<LastChange>2019-02-22T10:02:24</LastChange></Metadata>
+	<Page imageFilename="00770355.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2202" imageHeight="3047">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r22" index="0"/>
+	<RegionRefIndexed regionRef="r23" index="1"/>
+	<RegionRefIndexed regionRef="r24" index="2"/>
+	<RegionRefIndexed regionRef="r2" index="3"/>
+	<RegionRefIndexed regionRef="r3" index="4"/>
+	<RegionRefIndexed regionRef="r4" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<ImageRegion id="r1" colourDepth="colour" orientation="0.00000" embText="false" bgColour="white">
+	<Coords points="61,101 61,465 360,465 360,101"/></ImageRegion>
+	<TextRegion id="r2" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="62,654 608,654 608,705 640,705 640,749 685,749 685,785 723,785 723,820 637,820 637,872 701,872 701,900 693,900 693,959 728,959 728,996 665,996 665,1051 690,1051 690,1089 716,1089 716,1117 683,1117 683,1186 689,1186 689,1205 613,1205 613,1249 60,1249 60,1176 61,1176 61,1126 60,1126 60,1089 61,1089 61,996 60,996 60,915 61,915 61,695 62,695"/>
+	<TextEquiv>
+	<Unicode>IN AUGUST 2006, TIME'S BAGHDAD
+bureau chief, Bobby Ghosh, wrote a
+cover story called “Life in Hell,” an up-
+close, ﬁrst-person account of life in Iraq’s
+capital. It was a powerful, resonant
+story, and even though Bobby has since
+moved to New York, I thought it would
+be a good idea for him to go back to Bagh-
+dad to write a sequel around the ﬁfth
+anniversary of the war. I didn’t have to
+press him, because he’ll tell anyone who
+asks that he misses Iraq. Having spent
+ﬁve years there, he’s deeply invested in
+the future of that troubled nation.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r3" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="110,1264 637,1264 637,1309 678,1309 678,1362 695,1362 695,1397 730,1397 730,1425 664,1425 664,1494 671,1494 671,1529 700,1529 700,1595 705,1595 705,1604 671,1604 671,1643 666,1643 666,1707 730,1707 730,1730 725,1730 725,1774 687,1774 687,1818 638,1818 638,1862 554,1862 554,1916 60,1916 60,1868 59,1868 59,1790 60,1790 60,1608 59,1608 59,1397 60,1397 60,1346 59,1346 59,1318 110,1318"/>
+	<TextEquiv>
+	<Unicode>Bobby’s report, which opens this
+week’s magazine, is deﬁnitely a mixed
+one—he suggests that despite improve-
+ments in the security situation, the furies
+that were loosed during the sectarian
+war of 2006 have not been tamed. One
+thing that hasn’t changed in Baghdad is
+the commitment of our Iraqi staff there,
+marshaled by the indomitable bureau
+manager Ali al-Shaheen. They are the
+front lines of support for our rotating cast
+of reporters: photographers Yuri Kozyrev
+and Franco Pagetti and correspondents
+Brian Bennett, Mark Kukis, Charles
+Crain and Abigail Hauslohner.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="110,1922 606,1922 606,1967 665,1967 665,1995 633,1995 633,2038 621,2038 621,2107 662,2107 662,2134 656,2134 656,2194 686,2194 686,2212 654,2212 654,2256 632,2256 632,2316 685,2316 685,2343 657,2343 657,2413 660,2413 660,2457 698,2457 698,2476 696,2476 696,2536 724,2536 724,2564 660,2564 660,2629 679,2629 679,2652 669,2652 669,2704 380,2704 380,2747 59,2747 59,2704 58,2704 58,2448 59,2448 59,2352 57,2352 57,2315 59,2315 59,2228 60,2228 60,2179 59,2179 59,2010 60,2010 60,1966 110,1966"/>
+	<TextEquiv>
+	<Unicode>Closer to home, we are bidding
+farewell to one of TIME’s true legends:
+Ian Simpson. Over the course of her
+nearly three-decade career at TIME,
+Ian has held down pretty much every
+job in every category at the magazine
+and excelled at each one. Ian came here
+from the Wall Street Journal in 1979 to
+be a correspondent in the New York
+bureau. She was soon posted to Mexico
+City, where she dropped her bags and
+disappeared into Nicaragua for a year
+to cover the Sandinistas and the contras.
+Upon her return, she hopscotched from
+World-section writer to deputy New York
+bureau chief to associate editor in the
+Arts section, where she reported about
+books, movies, music and her greatest
+passion: the theater.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r5" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="109,2755 694,2755 694,2782 665,2782 665,2826 647,2826 647,2887 701,2887 701,2913 686,2913 686,2967 59,2967 59,2923 58,2923 58,2841 59,2841 59,2798 109,2798"/>
+	<TextEquiv>
+	<Unicode>Ian was also among the ﬁrst to write
+about domestic abuse in America and
+how women are not protected by the
+courts. She became one of the great Arts
+editors in the magazine’s history—and</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r6" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="58,3004 350,3004 350,3034 58,3034"/>
+	<TextEquiv>
+	<Unicode>TIME April 14, 2008</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r7" orientation="90.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="19,2373 19,2959 6,2959 6,2373"/>
+	<TextEquiv>
+	<Unicode>FROM TOP: FRANCO PAGETTI-VII FOR TIME: TED THAI FOR TIME</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r8" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="786,2141 1429,2141 1429,2175 1421,2175 1421,2213 1392,2213 1392,2257 1256,2257 1256,2309 787,2309 787,2261 786,2261 786,2228 787,2228 787,2178 786,2178"/>
+	<TextEquiv>
+	<Unicode>then made actual history when, in 2002,
+she was named assistant managing edi-
+tor, the ﬁrst African American in that
+position on TIME’s masthead.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="836,2315 1371,2315 1371,2360 1430,2360 1430,2388 1386,2388 1386,2458 1402,2458 1402,2476 1388,2476 1388,2555 1392,2555 1392,2586 1441,2586 1441,2677 1444,2677 1444,2695 1435,2695 1435,2739 1406,2739 1406,2783 1371,2783 1371,2851 1403,2851 1403,2870 1395,2870 1395,2930 1433,2930 1433,2958 785,2958 785,2930 786,2930 786,2878 785,2878 785,2842 786,2842 786,2661 785,2661 785,2625 786,2625 786,2396 785,2396 785,2361 836,2361"/>
+	<TextEquiv>
+	<Unicode>Ian embodies some of the highest
+virtues of journalism: utter fairness and
+a strong skepticism, coupled with the
+ability to praise when praise is due. No
+one has as little tolerance for cliché or
+as much appetite for intellectual spar-
+ring. Many a bad idea has died at her feet,
+while countless great ones were born out
+of her ability to make writers reﬁne their
+thoughts and search beyond the obvious
+to explain something deeper and more
+signiﬁcant for the reader. In her new
+life, she plans to see as much theater as
+she can, spend time with her husband
+Kamau and devote more attention to the</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r10" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1509,2142 2113,2142 2113,2169 2110,2169 2110,2229 2164,2229 2164,2256 2136,2256 2136,2299 2127,2299 2127,2365 2145,2365 2145,2404 2146,2404 2146,2432 2143,2432 2143,2502 2152,2502 2152,2521 2146,2521 2146,2565 2029,2565 2029,2617 1509,2617 1509,2316 1510,2316 1510,2179 1509,2179"/>
+	<TextEquiv>
+	<Unicode>blog she began a year ago, Broadway &amp;
+Me (broadwayandme.blogspot.com). The
+one consolation for us and for the readers
+of TIME is that Ian will continue to con-
+tribute to the magazine as a writer and
+an editor. It is ﬁtting that we pay tribute
+to Ian in an issue in which we recognize
+some of the most memorable writing in
+the magazine’s history. In so many ways
+and for so many years, Ian herself exem-
+pliﬁed the best TIME has to offer.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r11" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1508,2929 2049,2929 2049,2966 1508,2966"/>
+	<TextEquiv>
+	<Unicode>Richard Stengel, MANAGING EDITOR</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<GraphicRegion id="r12" type="signature" embText="false" numColours="1">
+	<Coords points="1943,2737 1945,2737 1945,2738 1949,2738 1949,2739 1953,2739 1953,2740 1955,2740 1955,2741 1956,2741 1956,2743 1957,2743 1957,2745 2016,2745 2016,2746 2017,2746 2017,2810 2035,2810 2035,2811 2036,2811 2036,2832 2051,2832 2051,2833 2052,2833 2052,2835 2051,2835 2051,2876 2050,2876 2050,2878 2046,2878 2046,2879 2040,2879 2040,2880 2026,2880 2026,2879 2020,2879 2020,2878 2016,2878 2016,2877 2013,2877 2013,2876 2011,2876 2011,2875 2010,2875 2010,2874 2008,2874 2008,2873 2007,2873 2007,2872 2006,2872 2006,2871 2000,2871 2000,2870 1999,2870 1999,2867 1882,2867 1882,2903 1881,2903 1881,2904 1880,2904 1880,2903 1878,2903 1878,2901 1876,2901 1876,2899 1875,2899 1875,2897 1874,2897 1874,2894 1873,2894 1873,2891 1872,2891 1872,2889 1871,2889 1871,2887 1870,2887 1870,2883 1869,2883 1869,2874 1868,2874 1868,2860 1867,2860 1867,2843 1868,2843 1868,2842 1869,2842 1869,2825 1870,2825 1870,2819 1871,2819 1871,2814 1872,2814 1872,2806 1873,2806 1873,2804 1874,2804 1874,2800 1875,2800 1875,2796 1876,2796 1876,2795 1877,2795 1877,2792 1878,2792 1878,2790 1879,2790 1879,2787 1880,2787 1880,2785 1881,2785 1881,2784 1882,2784 1882,2782 1883,2782 1883,2780 1884,2780 1884,2779 1885,2779 1885,2777 1886,2777 1886,2775 1887,2775 1887,2774 1888,2774 1888,2773 1889,2773 1889,2771 1891,2771 1891,2769 1892,2769 1892,2768 1893,2768 1893,2767 1894,2767 1894,2766 1895,2766 1895,2765 1896,2765 1896,2764 1897,2764 1897,2763 1898,2763 1898,2762 1899,2762 1899,2761 1900,2761 1900,2760 1901,2760 1901,2759 1902,2759 1902,2758 1904,2758 1904,2757 1905,2757 1905,2756 1906,2756 1906,2755 1907,2755 1907,2754 1908,2754 1908,2753 1910,2753 1910,2752 1911,2752 1911,2751 1912,2751 1912,2750 1914,2750 1914,2749 1915,2749 1915,2748 1917,2748 1917,2747 1919,2747 1919,2746 1921,2746 1921,2745 1923,2745 1923,2744 1925,2744 1925,2743 1926,2743 1926,2742 1929,2742 1929,2741 1932,2741 1932,2740 1935,2740 1935,2739 1941,2739 1941,2738 1943,2738"/></GraphicRegion>
+	<TextRegion id="r13" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2162,3001 2174,3001 2174,3025 2162,3025"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r14" orientation="90.00000" colour="black">
+	<Coords points="1483,2141 1484,2141 1484,2314 1483,2314 1483,2841 1482,2841 1482,2956 1481,2956 1481,2842 1482,2842 1482,2315 1483,2315"/></SeparatorRegion>
+	<SeparatorRegion id="r15" orientation="90.00000" colour="black">
+	<Coords points="762,651 763,651 763,735 762,735 762,1262 761,1262 761,1788 760,1788 760,2314 759,2314 759,2780 760,2780 760,2841 759,2841 759,2957 758,2957 758,2842 759,2842 759,1789 760,1789 760,1263 761,1263 761,736 762,736"/></SeparatorRegion>
+	<ImageRegion id="r16" colourDepth="colour" orientation="0.00000" embText="false" bgColour="black">
+	<Coords points="837,653 835,1353 1839,1352 1841,649"/></ImageRegion>
+	<ImageRegion id="r17" colourDepth="colour" orientation="0.00000" embText="false" bgColour="black">
+	<Coords points="1837,2077 1839,1372 836,1373 835,2076"/></ImageRegion>
+	<TextRegion id="r18" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1866,1166 2048,1166 2048,1202 2096,1202 2096,1246 2118,1246 2118,1267 2101,1267 2101,1330 2133,1330 2133,1354 2087,1354 2087,1401 2141,1401 2141,1426 2106,1426 2106,1474 2009,1474 2009,1512 1866,1512 1866,1474 1860,1474 1860,1441 1867,1441 1867,1361 1868,1361 1868,1315 1861,1315 1861,1282 1867,1282 1867,1227 1866,1227"/>
+	<TextEquiv>
+	<Unicode>A passion for
+the world Senior
+editor Ghosh spent
+five years in Iraq;
+assistant managing
+editor Simpson's
+career has taken her
+from Managua to
+Broadway</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<NoiseRegion id="r19">
+	<Coords points="1876,1956 1875,1956 1875,1957 1873,1957 1873,1956 1874,1956 1874,1954 1876,1954"/></NoiseRegion>
+	<SeparatorRegion id="r21">
+	<Coords points="2163,74 2175,74 2175,75 2186,75 1414,75 1414,76 1414,75 1072,75 1072,74 500,74 500,75 271,75 271,76 42,76 42,77 41,77 41,383 40,383 40,689 39,689 39,995 38,995 38,1301 37,1301 37,1608 36,1608 36,2293 35,2293 35,2983 401,2983 401,2982 766,2982 766,2981 2176,2981 2175,2981 2175,2985 814,2985 814,2986 814,2985 34,2985 34,3046 30,3046 31,3046 31,2461 32,2461 32,1876 33,1876 33,1290 34,1290 34,705 35,705 35,119 36,119 36,94 37,94 37,72 36,72 36,65 35,65 36,65 36,0 41,0 41,69 42,69 42,70 44,70 44,71 56,71 56,72 67,72 67,71 66,71 66,72 1115,72 1115,73 2163,73"/></SeparatorRegion>
+	<TextRegion id="r22" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="402,98 778,98 778,137 402,137"/>
+	<TextEquiv>
+	<Unicode>To Our Readers</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r23" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="401,160 1294,160 1294,255 401,255"/>
+	<TextEquiv>
+	<Unicode>Our Eyes an Ears.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r24" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1322,185 1707,185 1707,238 1568,238 1568,332 1745,332 1745,389 1476,389 1476,480 401,480 401,257 1322,257"/>
+	<TextEquiv>
+	<Unicode>One veteran
+correspondent returns to Baghdad to
+evaluate the war, and we honor another as
+she prepares to take her final bow</Unicode></TextEquiv>
+	<TextStyle textColour="grey" bgColour="white" reverseVideo="false"/></TextRegion></Page></PcGts>

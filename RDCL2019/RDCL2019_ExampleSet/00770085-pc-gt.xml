@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00000085">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-11-06T15:57:06</Created>
+	<LastChange>2019-02-20T10:15:32</LastChange></Metadata>
+	<Page imageFilename="00770085.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2280" imageHeight="3257">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/>
+	<RegionRefIndexed regionRef="r21" index="3"/>
+	<RegionRefIndexed regionRef="r22" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2141,525 2141,591 1283,591 1283,525"/>
+	<TextEquiv>
+	<Unicode>David Schuff and Robert St. Louis</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r3" orientation="90.00000" colour="black">
+	<Coords points="807,1345 807,2538 805,2538 805,1345"/></SeparatorRegion>
+	<TextRegion id="r7" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2163,2963 2163,3009 1259,3009 1259,2963"/>
+	<TextEquiv>
+	<Unicode>Centralization of application software is one</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<ImageRegion id="r8" colourDepth="colour" orientation="0.00000" embText="false" bgColour="white">
+	<Coords points="741,2252 741,2477 388,2477 388,2252"/></ImageRegion>
+	<TextRegion id="r9" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="983,3150 983,3172 303,3172 303,3150"/>
+	<TextEquiv>
+	<Unicode>June 2001/Vol. 44, No. 6 COMMUNICATIONS OF THE ACM</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r10" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="226,3141 226,3167 183,3167 183,3141"/>
+	<TextEquiv>
+	<Unicode>88</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r11" orientation="-90.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="credit" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="138,2854 138,3047 121,3047 121,2854"/>
+	<TextEquiv>
+	<Unicode>MARC MONGEAU</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<SeparatorRegion id="r12" orientation="90.00000" colour="black">
+	<Coords points="162,1346 162,3049 159,3049 159,1346"/></SeparatorRegion>
+	<SeparatorRegion id="r13" orientation="0.00000" colour="black">
+	<Coords points="2163,2567 2163,2568 199,2568 199,2567"/></SeparatorRegion>
+	<SeparatorRegion id="r14" orientation="0.00000" colour="black">
+	<Coords points="2164,3045 2164,3054 180,3054 180,3045"/></SeparatorRegion>
+	<SeparatorRegion id="r15" orientation="90.00000" colour="black">
+	<Coords points="2183,1345 2183,3049 2180,3049 2180,1345"/></SeparatorRegion>
+	<SeparatorRegion id="r16" orientation="90.00000" colour="black">
+	<Coords points="1187,2608 1187,2996 1185,2996 1185,2608"/></SeparatorRegion>
+	<NoiseRegion id="r17">
+	<Coords points="2279,3240 2279,3256 14,3256 14,3240"/></NoiseRegion>
+	<TextRegion id="r18" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="heading" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="198,636 2146,636 2146,834 2109,834 2109,1134 2166,1134 2166,1245 185,1245 185,1132 241,1132 241,835 198,835"/>
+	<TextEquiv>
+	<Unicode>CENTRALIZATION VS.
+DECENTRALIZATION
+OF APPLICATION SOFTWARE</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r19" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="floating" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="380,1345 787,1345 787,1424 788,1424 788,1559 786,1559 786,1631 780,1631 780,1724 304,1724 304,1551 266,1551 266,1518 275,1518 275,1425 380,1425"/>
+	<TextEquiv>
+	<Unicode>Whichever way
+the IT department
+chooses, the result
+should never lose
+sight of the user.</Unicode></TextEquiv>
+	<TextStyle textColour="green" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r20" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="831,1345 2161,1345 2161,1394 2160,1394 2160,1554 2162,1554 2162,1602 2161,1602 2161,1762 2162,1762 2162,1811 2160,1811 2160,1970 2161,1970 2161,2123 2160,2123 2160,2284 2161,2284 2161,2388 2163,2388 2163,2436 1689,2436 1689,2541 831,2541 831,2388 832,2388 832,2229 831,2229 831,2179 832,2179 832,1915 831,1915 831,1866 832,1866 832,1706 831,1706"/>
+	<TextEquiv>
+	<Unicode>Historically, information technology departments have cycled
+between centralized and decentralized application software distribu-
+tion, although modular program design and enterprise management
+software may break that cycle. Meanwhile, IT departments that want
+to manage the distribution and configuration of software across their
+networks are searching for an acceptable balance of control, reliabil-
+ity, and speed. Distributing application files on individual PCs max-
+imizes network performance, but makes it much more difficult to
+enforce configuration standards and maintain control. Placing appli
+cation files in a few central locations gives an IT department signifi-
+cant control over software configuration but may degrade network
+performance and lead to user dissatisfaction.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r21" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="248,2598 1154,2598 1154,2644 1153,2644 1153,2755 1154,2755 1154,2790 1153,2790 1153,2859 1155,2859 1155,2957 1154,2957 1154,3009 201,3009 201,2978 204,2978 204,2892 201,2892 201,2854 200,2854 200,2806 201,2806 201,2663 248,2663"/>
+	<TextEquiv>
+	<Unicode>As the components and software in corporate
+networks become increasingly complex, simplifica-
+tion of their management and administration
+becomes essential. The network-attached PC has a
+high cost of ownership; CIO Magazine has esti-
+ated the cost to be $10,000 per desktop per year
+[3, 4]. The costs of a network-attached PC mostly
+cover maintenance, not installation or actually buy-</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion>
+	<TextRegion id="r22" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="paragraph" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1208,2598 2161,2598 2161,2769 2164,2769 2164,2801 2162,2801 2162,2906 1434,2906 1434,2946 1206,2946 1206,2912 1208,2912 1208,2854 1207,2854 1207,2807 1208,2807"/>
+	<TextEquiv>
+	<Unicode>ing the equipment. These costs can be cut by reduc-
+ing the number of hours spent on network admin-
+istration tasks like implementing new software,
+distributing new software versions, applying
+patches, and troubleshooting problems with the
+individual software applications installed on each
+workstation.</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white"/></TextRegion></Page></PcGts>

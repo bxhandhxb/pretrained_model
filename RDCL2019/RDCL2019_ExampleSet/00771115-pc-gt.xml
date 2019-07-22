@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-00001115">
+	<Metadata>
+	<Creator>PRImA Research</Creator>
+	<Created>2009-07-01T15:14:08</Created>
+	<LastChange>2019-02-20T15:41:53</LastChange></Metadata>
+	<Page imageFilename="00771115.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2307" imageHeight="3233">
+	<TextRegion id="r1" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1558,840 2080,840 2080,873 2075,873 2075,903 2043,903 2043,955 2083,955 2083,987 2022,987 2022,1018 1556,1018 1556,993 1558,993 1558,949 1557,949 1557,878 1558,878"/>
+	<TextEquiv>
+	<Unicode>Figure 2. (left) The temporal planning
+network for the two-rover exploration
+plan. Failure due to an obscuration
+(rock) results in automatic replanning
+so that the mission can continue.</Unicode></TextEquiv>
+	<TextStyle textColour="yellow" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r2" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="caption" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1557,1143 1992,1143 1992,1166 1967,1166 1967,1213 1558,1213 1558,1175 1557,1175"/>
+	<TextEquiv>
+	<Unicode>Figure 3. (below) Deep Space 1:
+Fight experiment (May 1999).</Unicode></TextEquiv>
+	<TextStyle textColour="yellow" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r4" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="footer" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="1305,3164 2003,3164 2003,3184 1305,3184"/>
+	<TextEquiv>
+	<Unicode>COMMUNICATIONS OF THE ACM March 2006/Vol. 49, No. 3</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<TextRegion id="r5" orientation="0.00000" readingOrientation="0.00000" readingDirection="left-to-right" type="page-number" indented="false" primaryLanguage="English" primaryScript="Latn - Latin">
+	<Coords points="2049,3156 2093,3156 2093,3181 2049,3181"/>
+	<TextEquiv>
+	<Unicode>45</Unicode></TextEquiv>
+	<TextStyle textColour="black" bgColour="white" reverseVideo="false"/></TextRegion>
+	<LineDrawingRegion id="r6" embText="true" orientation="0.00000" penColour="black" bgColour="white">
+	<Coords points="1514,1198 1514,258 116,258 116,1198"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="137,408 137,441 213,441 213,408"/>
+	<TextEquiv>
+	<Unicode>Start</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="602,307 602,342 882,342 882,307"/>
+	<TextEquiv>
+	<Unicode>Rover1.findTargets</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="892,305 892,342 1127,342 1127,305"/>
+	<TextEquiv>
+	<Unicode>Rover1.goto(p2)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1163,303 1163,340 1400,340 1400,303"/>
+	<TextEquiv>
+	<Unicode>Rover1.goto(p3)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="357,450 357,484 596,484 596,450"/>
+	<TextEquiv>
+	<Unicode>Rover1.goto(p1)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="625,448 625,484 860,484 860,448"/>
+	<TextEquiv>
+	<Unicode>Rover1.goto(p2)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="870,448 870,482 1147,482 1147,448"/>
+	<TextEquiv>
+	<Unicode>Rover.findTargets</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1158,447 1158,480 1396,480 1396,447"/>
+	<TextEquiv>
+	<Unicode>Rover1.goto(p3)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="363,584 363,618 596,618 596,584"/>
+	<TextEquiv>
+	<Unicode>Rover2.goto(p5)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="653,553 653,593 830,593 830,553"/>
+	<TextEquiv>
+	<Unicode>Failure</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="625,584 625,613 641,614 871,617 869,592 834,589 833,596 646,596 644,583"/>
+	<TextEquiv>
+	<Unicode>Rover2.findEggs</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="894,580 894,617 1129,617 1129,580"/>
+	<TextEquiv>
+	<Unicode>Rover2.goto(p6)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="1163,582 1163,616 1396,616 1396,582"/>
+	<TextEquiv>
+	<Unicode>Rover2.goto(p3)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="625,728 625,761 861,761 861,728"/>
+	<TextEquiv>
+	<Unicode>Rover2.goto(p6)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="894,725 894,761 1126,761 1126,725"/>
+	<TextEquiv>
+	<Unicode>Rover2.goto(p3)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="1134,723 1134,759 1413,759 1413,723"/>
+	<TextEquiv>
+	<Unicode>Rover2.findTargets</Unicode></TextEquiv></TextRegion></LineDrawingRegion>
+	<ImageRegion id="r7" colourDepth="colour" orientation="0.00000" embText="false" bgColour="black">
+	<Coords points="2058,1360 2058,1361 2089,1361 2089,1362 2095,1362 2095,1363 2096,1363 2096,1725 2097,1725 2097,1756 2096,1756 2096,2025 2097,2025 2097,2925 2098,2925 2098,3055 1697,3055 1697,3056 1465,3056 1465,3057 1390,3057 1390,3056 1166,3056 1166,3057 941,3057 941,3058 448,3058 448,3059 225,3059 225,3060 112,3060 112,2924 111,2924 111,2716 110,2716 110,2549 109,2549 109,1995 108,1995 108,1422 107,1422 107,1368 108,1368 108,1367 140,1367 140,1366 389,1366 389,1365 651,1365 651,1364 1101,1364 1101,1363 1334,1363 1334,1362 1839,1362 1839,1361 2058,1361"/></ImageRegion></Page></PcGts>
